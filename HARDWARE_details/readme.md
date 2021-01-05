@@ -45,5 +45,5 @@ But the advantages of the Gamma 6-1 tube are:
 
 The custom designed US iRover high voltage supply by IMI (International Medcom Inc.) used in bGeigie Nano is hard to get and it is not freely available on the market.
 
-<img src="/HARDWARE_details/images/HV_Safecast_IMI_iRover.jpg" alt="IMI iRover used in bGeigie Nano" width="700"/>
+<img src="/HARDWARE_details/images/HV_Safecast_IMI_iRover.jpg" alt="IMI iRover used in bGeigie Nano" width="500"/>
 
