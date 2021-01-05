@@ -40,3 +40,10 @@ But the advantages of the Gamma 6-1 tube are:
 - significantly higher sensitivity proven by field tests - below the same route measured at the same time by both devices:
 
 <img src="/HARDWARE_details/images/CzechRad_vs_Safecast_graph.png" alt="CzechRad vs. SAFECAST sensitivity" width="700"/>
+
+## Different high-voltage power supply
+
+The custom designed US iRover high voltage supply by IMI (International Medcom Inc.) used in bGeigie Nano is hard to get and it is not freely available on the market.
+
+<img src="/HARDWARE_details/images/HV_Safecast_IMI_iRover.jpg" alt="IMI iRover used in bGeigie Nano" width="700"/>
+
