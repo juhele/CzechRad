@@ -39,4 +39,4 @@ But the advantages of the Gamma 6-1 tube are:
 
 - significantly higher sensitivity
 
-<img src="/HARDWARE_details/images/CzechRad_vs_Safecast_graph.png" alt="CzechRad vs. SAFECAST sensitivity" width="800"/>
+<img src="/HARDWARE_details/images/CzechRad_vs_Safecast_graph.png" alt="CzechRad vs. SAFECAST sensitivity" width="600"/>
