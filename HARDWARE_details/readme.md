@@ -13,6 +13,10 @@
 - built-in SD card slot
 - miniUSB for charging and data comm.
 
+<img src="/HARDWARE_details/images/CzechRAD_mainboard_web.jpg" alt="CzechRad main board" width="800"/>
+
 ## Detector board
 - High Voltage power supply module by EMCO / XP Power instead of MEDCOM iRover
 - buzzer, LEDs
+
+<img src="/HARDWARE_details/images/CzechRad_detector_board_web.jpg" alt="CzechRad detector board" width="800"/>
