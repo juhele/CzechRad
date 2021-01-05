@@ -28,6 +28,6 @@ Four different Geiger units were considered for the device. From left to right: 
 
 <img src="/HARDWARE_details/images/CzechRad_detectors_web.jpg" alt="CzechRad prototype with both boards and display" width="800"/>
 
-### DSPF "CONSENSUS" Gamma 6-1 tube properties
+### SPF "CONSENSUS" Gamma 6-1 tube properties
 
 Four differe
