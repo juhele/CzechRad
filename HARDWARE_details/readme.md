@@ -27,3 +27,7 @@ Four different Geiger units were considered for the device. From left to right: 
 (France / India) - almost identical to the LND, but cheaper, was tested, but production discontinued during CzechRad prototype development, SPF "CONSENSUS" Gamma 6 and Gamma 6-1 (Russian Federation) - brand new design in production (not old Soviet military stock). The Gamma 6-1 was chosen for the final design.
 
 <img src="/HARDWARE_details/images/CzechRad_detectors_web.jpg" alt="CzechRad prototype with both boards and display" width="800"/>
+
+### DSPF "CONSENSUS" Gamma 6-1 tube properties
+
+Four differe
