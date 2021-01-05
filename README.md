@@ -46,3 +46,8 @@ BUT we wanted to change several things we do not like on the SAFECAST device ...
 CzechRad uses only two boards instead of several 3rd party made modules. These boards are built using standard electronic components available worldwide from big sellers like Farnell, RS Components, Mouser Electronics etc. 
 
 This eliminates the dependency on particular 3rd party module producers - we only rely on source electronic components manufacturer = we can buy components directly, not through US. module reseller. The configuration should also make diagnostics easier.
+
+### CzechRad - Czech made
+
+Both two boards manufactured and assembled in the Czech Republic by Tesla.
+
