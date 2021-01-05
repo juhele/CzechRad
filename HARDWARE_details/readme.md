@@ -29,4 +29,4 @@ Four different Geiger units of almost the same dimensions were considered for th
 
 ### SPF "CONSENSUS" Gamma 6-1 tube properties
 
-The Gamma 6-1 tube is also pancake type and has
+The [Gamma 6-1 tube](https://consensus-group.ru/radiation-counters/gamma-radiation/187-gamma-6-1) is also pancake type and has
