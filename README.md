@@ -14,7 +14,7 @@ ID: VJ01010116
 
 Provider:	Ministry of the Interior of the Czech Republic
 
-<img src="Images/IMPAKT_loga.png" alt="Ministry of the Interior of the Czech Republic logo" width="600"/>
+<img src="Images/IMPAKT_loga.png" alt="Ministry of the Interior of the Czech Republic logo" width="400"/>
 
 Programme:	Strategická podpora rozvoje bezpečnostního výzkumu ČR 2019-2025 (IMPAKT 1) 
 
