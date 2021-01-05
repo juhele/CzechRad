@@ -52,3 +52,5 @@ This eliminates the dependency on particular 3rd party module producers - we onl
 Both two boards manufactured and assembled in the Czech Republic by Tesla.
 
 *...No, not by [that Tesla](https://en.wikipedia.org/wiki/Tesla,_Inc.) from the U.S. (est. 2003).*
+
+<img src="/Images/Tesla_Radio_vitrage_web.jpg" alt="Stained glass Tesla Radio logo in Passage Světozor in Prague, photo by Ludek, CC BY-SA 3.0" width="400"/>
