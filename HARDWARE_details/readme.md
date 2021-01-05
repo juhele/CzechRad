@@ -2,6 +2,8 @@
 
 *One board to rule them all? Not yet but close :-)*
 
+<img src="/HARDWARE_details/images/CzechRad_demo_web.JPG" alt="CzechRad prototype with both boards and display" width="800"/>
+
 - only two boards instead of several 3rd party made modules
 
 ## Main board
