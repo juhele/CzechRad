@@ -4,6 +4,7 @@ Mobile detector for radiation mapping - similar to SAFECAST bGeigie Nano
 The device will be finished and manufactured within the project:
 
 
+
 Title: Centrum pro podporu obyvatelstva pro případ skutečného nebo domnělého vzniku mimořádných jaderných a radiačních událostí
 
 (English: Center for the support of the population in case of actual or suspected occurence of extraordinary nuclear and radiation events)
