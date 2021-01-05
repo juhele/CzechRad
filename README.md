@@ -51,4 +51,4 @@ This eliminates the dependency on particular 3rd party module producers - we onl
 
 Both two boards manufactured and assembled in the Czech Republic by Tesla.
 
-no, not by [that Tesla](https://en.wikipedia.org/wiki/Tesla,_Inc.) from the U.S. (est. 2003)
+*...No, not by [that Tesla](https://en.wikipedia.org/wiki/Tesla,_Inc.) from the U.S. (est. 2003).*
