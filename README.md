@@ -42,3 +42,7 @@ BUT we wanted to change several things we do not like on the SAFECAST device ...
 ### Different production / assembly approach
 
 [SAFECAST bGeigie Nano](https://safecast.org/devices/bgeigie-nano/) consists of several modules connected / soldered together - some of them are obsolete and possible to get from US provider only. Assembly requires most of the modules to be soldered together, which makes hardware diagnostics and repairs complicated.
+
+CzechRad uses only two boards instead of several 3rd party made modules. These boards are built using standard electronic components available worldwide from big sellers like Farnell, RS Components, Mouser Electronics etc. 
+
+This eliminates the dependency on particular 3rd party module producers - we only rely on source electronic components manufacturer = we can buy components directly, not through US. module reseller. The configuration should also make diagnostics easier.
