@@ -38,3 +38,7 @@ Programme:	Strategická podpora rozvoje bezpečnostního výzkumu ČR 2019-2025 
       developed for Safecast data
 
 BUT we wanted to change several things we do not like on the SAFECAST device ...
+
+### Different production / assembly approach
+
+[SAFECAST bGeigie Nano](https://safecast.org/devices/bgeigie-nano/) consists of several modules connected / soldered together - some of them are obsolete and possible to get from US provider only. Assembly requires most of the modules to be soldered together, which makes hardware diagnostics and repairs complicated.
