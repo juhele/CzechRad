@@ -23,7 +23,7 @@ Programme:	Strategická podpora rozvoje bezpečnostního výzkumu ČR 2019-2025 
 
 (English: Strategic support for the development of security research in the Czech Republic 2019-2025 (IMPAKT 1))
 
-### Development goals
+### Device development goals
 
 1) create a bGeigie Nano equivalent from the measurement point of view
 
