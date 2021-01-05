@@ -20,3 +20,8 @@
 - buzzer, LEDs
 
 <img src="/HARDWARE_details/images/CzechRad_detector_board_web.jpg" alt="CzechRad detector board" width="800"/>
+
+## Detector unit - Geiger tube
+- High Voltage pow
+
+<img src="/HARDWARE_details/images/CzechRad_detectors_web.jpg" alt="CzechRad prototype with both boards and display" width="800"/>
