@@ -1,6 +1,6 @@
 # CzechRad detector - technical specifications
 
-* *One board to rule them all? Not yet but close :-)
+** One board to rule them all? Not yet but close :-)
 
 - only two boards instead of several 3rd party made modules
 
