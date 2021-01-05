@@ -23,3 +23,18 @@ Programme:	Strategická podpora rozvoje bezpečnostního výzkumu ČR 2019-2025 
 
 (English: Strategic support for the development of security research in the Czech Republic 2019-2025 (IMPAKT 1))
 
+### Development goals
+
+1) create a bGeigie Nano equivalent from the measurement point of view
+
+2) keep the advantages of the size, the same long-term proven sturdy Pelican case
+
+3) keep the same data format and structure e.g. plain text LOG files so we can:
+    
+    - upload to Safecast API without need
+      to change anything
+    
+    - use our current offline software tools 
+      developed for Safecast data
+
+BUT we want to change several things we do not like ...
