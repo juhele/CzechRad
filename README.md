@@ -1,15 +1,15 @@
 # CzechRad
 Mobile detector for radiation mapping - similar to SAFECAST bGeigie Nano
 
-
-<img src="Images/IMPAKT_loga.png" alt="Ministry of the Interior of the Czech Republic logo" width="400"/>
-
 The device will be finished and manufactured within the project:
 
 
 Title: Centrum pro podporu obyvatelstva pro případ skutečného nebo domnělého vzniku mimořádných jaderných a radiačních událostí
 
 (English: Center for the support of the population in case of actual or suspected occurence of extraordinary nuclear and radiation events)
+
+
+<img src="Images/IMPAKT_loga.png" alt="Ministry of the Interior of the Czech Republic logo" width="400"/>
 
 Duration: 2021 — 2025
 
