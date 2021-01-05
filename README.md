@@ -53,4 +53,6 @@ Both two boards manufactured and assembled in the Czech Republic by Tesla.
 
 *...No, not by [that Tesla](https://en.wikipedia.org/wiki/Tesla,_Inc.) from the U.S. (est. 2003).*
 
+*...but this Tesla (est. 1946) - traditional manufacturer of electrical products and components established in Czechoslovakia.*
+
 <img src="/Images/Tesla_Radio_vitrage_web.jpg" alt="Stained glass Tesla Radio logo in Passage Světozor in Prague, photo by Ludek, CC BY-SA 3.0" width="400"/>
