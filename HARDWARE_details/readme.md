@@ -37,6 +37,6 @@ But the advantages of the Gamma 6-1 tube are:
 
 - it is lighter - 35 g compared to 125 g of the LND tube
 
-- significantly higher sensitivity
+- significantly higher sensitivity proven by field tests - below the same route measured at the same time by both devices:
 
 <img src="/HARDWARE_details/images/CzechRad_vs_Safecast_graph.png" alt="CzechRad vs. SAFECAST sensitivity" width="700"/>
