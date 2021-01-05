@@ -1,1 +1,1 @@
-# Tech specs
+# CzechRad detector - technical specifications
