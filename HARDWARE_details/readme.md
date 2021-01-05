@@ -33,5 +33,10 @@ The [Gamma 6-1 tube](https://consensus-group.ru/radiation-counters/gamma-radiati
 
 But the advantages of the Gamma 6-1 tube are:
 
+- the tube is less sensitive to damage (no Mica window)
 
 - it is lighter - 35 g compared to 125 g of the LND tube
+
+- significantly higher sensitivity
+
+<img src="/HARDWARE_details/images/CzechRad_vs_Safecast_graph.png" alt="CzechRad vs. SAFECAST sensitivity" width="800"/>
