@@ -56,3 +56,13 @@ For CzechRad the high voltage power supply module from EMCO - XP Power was chose
 Instead of the Ultimate GPS by Adafruit used in bGeigie Nano:
 
 <img src="/HARDWARE_details/images/GPS_Safecast_Adafruit.jpg" alt="Ultimate GPS by Adafruit used in bGeigie Nano" width="500"/>
+
+The module is available from Adafruit (USA), uses MTK3339 chipset and features 22 tracking / 66 acquisition-channel GPS receiver.
+
+In CzechRad the NEO-M8 series GPS chip by u-blox was used instead:
+
+<img src="/HARDWARE_details/images/GPS_CzechRad_uBlox.jpg" alt="NEO-M8 series by u-blox" width="500"/>
+
+The GPS chip is mounted directly on the main board, features concurrent reception of up to 3 GNSS (GPS, Galileo, GLONASS, BeiDou), industry leading –167 dBm, navigation sensitivity.
+
+Our field tests confirmed quicker position fix, possibly better sensitivity and precision.
