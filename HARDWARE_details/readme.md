@@ -50,3 +50,9 @@ The custom designed US iRover high voltage supply by IMI (International Medcom I
 For CzechRad the high voltage power supply module from EMCO - XP Power was chosen. Maybe not cheaper, but easier to obtain and reliable HV supply module.
 
 <img src="/HARDWARE_details/images/HV_CzechRad_EMCO.jpg" alt="EMCO HV power supply used in CzechRad" width="500"/>
+
+## Different GPS module
+
+Instead of the Ultimate GPS by Adafruit used in bGeigie Nano:
+
+<img src="/HARDWARE_details/images/GPS_Safecast_Adafruit.jpg" alt="Ultimate GPS by Adafruit used in bGeigie Nano" width="500"/>
