@@ -66,3 +66,9 @@ In CzechRad the NEO-M8 series GPS chip by u-blox was used instead:
 The GPS chip is mounted directly on the main board, features concurrent reception of up to 3 GNSS (GPS, Galileo, GLONASS, BeiDou), industry leading –167 dBm, navigation sensitivity.
 
 Our field tests confirmed quicker position fix, possibly better sensitivity and precision.
+
+## Quicker charging compared to bGeigie
+
+- MAX1811 charging circuit by Maxim Integrated 
+- at least 2 times quicker charging than bGeigie, but still "battery friendly"
+
