@@ -28,9 +28,10 @@ Program 	VJ - Strategická podpora rozvoje bezpečnostního výzkumu ČR 2019 - 
 
 [další informace o projektu - Informační systém výzkumu, vývoje a inovací (IS VaVaI)](https://www.isvavai.cz/cep?s=jednoduche-vyhledavani&ss=detail&n=0&h=VJ01010116)
 
-(English: Strategic support for the development of security research in the Czech Republic 2019-2025 (IMPAKT 1))
 
-### Device development goals
+
+
+### Cíle vývoje zařízení
 
 1) create a bGeigie Nano equivalent from the measurement point of view
 
