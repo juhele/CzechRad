@@ -11,7 +11,7 @@ Mobilní detektor pro radiační mapování - podobný přístroji SAFECAST bGei
 The device will be finished and manufactured within the project:
 
 
-### Title: Centrum pro podporu obyvatelstva pro případ skutečného nebo domnělého vzniku mimořádných jaderných a radiačních událostí
+### Název projektu: Centrum pro podporu obyvatelstva pro případ skutečného nebo domnělého vzniku mimořádných jaderných a radiačních událostí
 
 ### (English: Center for the support of the population in case of actual or suspected occurence of extraordinary nuclear and radiation events)
 
@@ -22,9 +22,11 @@ Trvání: 2021 — 2025
 
 ID: VJ01010116
 
-Poskytovatel:	Ministry of the Interior of the Czech Republic
+Poskytovatel 	MV0 - Ministerstvo vnitra (MV)
 
-Programme:	Strategická podpora rozvoje bezpečnostního výzkumu ČR 2019-2025 (IMPAKT 1) 
+Program 	VJ - Strategická podpora rozvoje bezpečnostního výzkumu ČR 2019 - 2025 (IMPAKT 1)  (2019 - 2025)
+
+[další informace o projektu - Informační systém výzkumu, vývoje a inovací (IS VaVaI)](https://www.isvavai.cz/cep?s=jednoduche-vyhledavani&ss=detail&n=0&h=VJ01010116)
 
 (English: Strategic support for the development of security research in the Czech Republic 2019-2025 (IMPAKT 1))
 
