@@ -8,7 +8,7 @@ Mobilní detektor pro radiační mapování - podobný přístroji SAFECAST bGei
 
 <img src="Images/CzechRad_vs_bGeigie_web.jpg" alt="CzechRad prototype copared with SAFECAST bGeigie Nano" width="800"/>
 
-The device will be finished and manufactured within the project:
+Přístroj bude dokončen a vyroben v rámci projektu:
 
 
 ### Název projektu: Centrum pro podporu obyvatelstva pro případ skutečného nebo domnělého vzniku mimořádných jaderných a radiačních událostí
@@ -35,17 +35,15 @@ Program 	VJ - Strategická podpora rozvoje bezpečnostního výzkumu ČR 2019 - 
 
 1) vytvořit ekvivalentní zařízení k přístroji bGeigie Nano equivalent from the measurement point of view
 
-2) keep the advantages of the size, the same long-term proven sturdy Pelican case
+2) zachovat výhody malé velikosti a stejné, dlouhodobě prověřené odolné pouzdro Pelican
 
-3) keep the same data format and structure e.g. plain text LOG files so we can:
+3) zachovat stejný formát dat i jejich strukturu - tj. LOG soubory v textovém formátu, aby bylo možné:
     
-    - upload to Safecast API without need
-      to change anything
+    - nahrávat data do Safecast API bez nutnosti zásadních změn
     
-    - use our current offline software tools 
-      developed for Safecast data
+    - využívat stávající nástroje pro offline zpracování dat, vyvinuté původně pro data z přístrojů Safecast
 
-BUT we wanted to change several things we do not like on the SAFECAST device ...
+ALE chtěli jsme změnit několik věcí, které se nám na přístrojích SAFECAST nelíbí ...
 
 ### Different production / assembly approach
 
