@@ -59,7 +59,7 @@ Konfigurace využívající pouze dvě desky s elektronikou by také měla zjedn
 
 Obě desky s elektronikou jsou vyráběny a osazovány v České Republice firmou Tesla.
 
-*...Ale nemyslíme [tuhle Teslu](https://cs.wikipedia.org/wiki/Tesla_(automobilka)) založenou 2003 v USA, co vyrábí auta.*
+*...Nemyslíme [tuhle Teslu](https://cs.wikipedia.org/wiki/Tesla_(automobilka)) založenou 2003 v USA, co vyrábí auta.*
 
 *...ale [tuhle Teslu](https://cs.wikipedia.org/wiki/Tesla_(podnik)) - tradičního výrobce elektrotechniky, založenou v Československu v roce 1946.*
 
