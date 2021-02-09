@@ -1,4 +1,7 @@
 # CzechRad
+
+[Pro českou verzi stránky klikněte zde](Readme_CZ.md)  
+
 Mobile detector for radiation mapping - similar to SAFECAST bGeigie Nano. [Technical details here](/HARDWARE_details)  
 
 <img src="Images/CzechRad_vs_bGeigie_web.jpg" alt="CzechRad prototype copared with SAFECAST bGeigie Nano" width="800"/>
