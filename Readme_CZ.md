@@ -1,4 +1,4 @@
-# CzechRad (stránka v přípravě)
+# CzechRad
 
 <img src="Images/flag_EN.png" alt="čeština" width="128"/>
 
