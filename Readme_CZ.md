@@ -33,7 +33,7 @@ Program 	VJ - Strategická podpora rozvoje bezpečnostního výzkumu ČR 2019 - 
 
 ### Cíle vývoje zařízení
 
-1) create a bGeigie Nano equivalent from the measurement point of view
+1) vytvořit ekvivalentní zařízení k přístroji bGeigie Nano equivalent from the measurement point of view
 
 2) keep the advantages of the size, the same long-term proven sturdy Pelican case
 
