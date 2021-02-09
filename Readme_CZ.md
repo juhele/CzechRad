@@ -2,7 +2,7 @@
 
 <img src="Images/flag_EN.png" alt="čeština" width="128"/>
 
-[For English version click here](Readme.md)  
+[For English version click here](README.md)  
 
 Mobile detector for radiation mapping - similar to SAFECAST bGeigie Nano. [Technical details here](/HARDWARE_details)  
 
