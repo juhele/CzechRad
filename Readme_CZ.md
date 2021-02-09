@@ -4,7 +4,7 @@
 
 [For English version click here](README.md)  
 
-Mobile detector for radiation mapping - similar to SAFECAST bGeigie Nano. [Technical details here](/HARDWARE_details)  
+Mobilní detektor pro radiační mapování - podobný přístroji. [Technical details here](/HARDWARE_details)  
 
 <img src="Images/CzechRad_vs_bGeigie_web.jpg" alt="CzechRad prototype copared with SAFECAST bGeigie Nano" width="800"/>
 
@@ -16,13 +16,13 @@ The device will be finished and manufactured within the project:
 ### (English: Center for the support of the population in case of actual or suspected occurence of extraordinary nuclear and radiation events)
 
 
-<img src="Images/IMPAKT_loga.png" alt="Ministry of the Interior of the Czech Republic logo" width="400"/>
+<img src="Images/IMPAKT_loga_CZ.png" alt="Loga poskytovatele a řešitelů" width="400"/>
 
-Duration: 2021 — 2025
+Trvání: 2021 — 2025
 
 ID: VJ01010116
 
-Provider:	Ministry of the Interior of the Czech Republic
+Poskytovatel:	Ministry of the Interior of the Czech Republic
 
 Programme:	Strategická podpora rozvoje bezpečnostního výzkumu ČR 2019-2025 (IMPAKT 1) 
 
