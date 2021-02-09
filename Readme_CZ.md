@@ -49,17 +49,19 @@ ALE chtěli jsme změnit několik věcí, které se nám na přístrojích SAFEC
 
 Přístroj [SAFECAST bGeigie Nano](https://safecast.org/devices/bgeigie-nano/) je tvořen z mnoha navzájem propojených / sletovaných modulů - některé z nich jsou zastaralé a jejich pořízení je problematické - už se skoro neprodávají, některé lze koupit pouze od amerických dodavatelů. Sestavení přístrojer vyžaduje sletování většiny modulů což výrazně komplikuje diagnostiku, servis a případné opravy přístroje.
 
-CzechRad uses only two boards instead of several 3rd party made modules. These boards are built using standard electronic components available worldwide from big sellers like Farnell, RS Components, Mouser Electronics etc. 
+CzechRad využívá pouze dvě desky s elektronikou místo mnoha mnoha komerčních modulů třetích stran. Tyto desky využívají standardní elektronické součástky dostupné celosvětově prostřednictvím velkých prodejců jako např. Farnell, RS Components, Mouser Electronics atd. 
 
-This eliminates the dependency on particular 3rd party module producers - we only rely on source electronic components manufacturer = we can buy components directly, not through US. module reseller. The configuration should also make diagnostics easier.
+Tím se eliminuje závislost na konkrétních dodavatelích různých modulů - jsme závislí pouze na výrobcích základních elektronických součástek, které kupujeme přímo od českého / evropského zastoupení prodejce, nikoliv přes amerického distributora. 
 
-### CzechRad - Czech made
+Konfigurace využívající pouze dvě desky s elektronikou by také měla zjednodušit diagnostiku přístroje.
 
-Both two boards manufactured and assembled in the Czech Republic by Tesla.
+### CzechRad - vyrobeno v České Republice
 
-*...No, not by [that Tesla](https://en.wikipedia.org/wiki/Tesla,_Inc.) from the U.S. (est. 2003).*
+Obě desky s elektronikou jsou vyráběny a osazovány v České Republice firmou Tesla.
 
-*...but [this Tesla](https://en.wikipedia.org/wiki/Tesla_(Czechoslovak_company)) (est. 1946) - traditional manufacturer of electrical products and components established in Czechoslovakia.*
+*...Ale nemyslíme [tuhle Teslu](https://cs.wikipedia.org/wiki/Tesla_(automobilka)) založenou 2003 v USA, co vyrábí auta.*
+
+*...ale [tuhle Teslu](https://cs.wikipedia.org/wiki/Tesla_(podnik)) - tradičního výrobce elektrotechniky, založenou v Československu v roce 1946.*
 
 <img src="/Images/Tesla_Radio_vitrage_web.jpg" alt="Stained glass Tesla Radio logo in Passage Světozor in Prague, photo by Ludek, CC BY-SA 3.0" width="400"/>
 
