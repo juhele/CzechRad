@@ -4,7 +4,9 @@
 
 [For English version click here](README.md)  
 
-Mobilní detektor pro radiační mapování - podobný přístroji SAFECAST bGeigie Nano. [Technical details here](/HARDWARE_details)  
+Mobilní detektor pro radiační mapování - podobný přístroji SAFECAST bGeigie Nano. 
+Zařízení vyvíjí [Státní ústav radiační ochrany, v. v. i. (SÚRO)](https://www.suro.cz/cz/suro) ve spolupráci s [Ústavem technické a experimentální fyziky ČVUT (ÚTEF)](http://www.utef.cvut.cz/utef)
+[Technical details here](/HARDWARE_details)  
 [Galerie fotografií ve vysokém rozlišení zde](https://flic.kr/s/aHsmUcpD1h)  
 
 <img src="Images/CzechRad_vs_bGeigie_web.jpg" alt="CzechRad prototype copared with SAFECAST bGeigie Nano" width="800"/>
