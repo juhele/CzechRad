@@ -4,7 +4,8 @@
 
 [Pro českou verzi stránky klikněte zde](Readme_CZ.md)  
 
-Mobile detector for radiation mapping - similar to SAFECAST bGeigie Nano. The device is being developed by [National Radiation Protection Institute (SÚRO)](https://www.suro.cz/en) in cooperation with [Institute of Experimental and Applied Physics, Czech Technical University in Prague)](http://www.utef.cvut.cz/ieap)
+Mobile detector for radiation mapping - similar to SAFECAST bGeigie Nano. 
+The device is being developed by [National Radiation Protection Institute (SÚRO)](https://www.suro.cz/en) in cooperation with [Institute of Experimental and Applied Physics, Czech Technical University in Prague)](http://www.utef.cvut.cz/ieap)
 
 [Technical details here](/HARDWARE_details)  
 [Gallery of high resolution photos here](https://flic.kr/s/aHsmUcpD1h)  
