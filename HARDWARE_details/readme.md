@@ -43,9 +43,10 @@ But the advantages of the Gamma 6-1 tube are:
 
 <img src="/HARDWARE_details/images/Safecast_CzechRad_graph_pulses5s.png" alt="CzechRad vs. SAFECAST sensitivity - pulses 5s" width="700"/>
 
+more than 11 hours measurement - calculated pulses per minute
+
 <img src="/HARDWARE_details/images/Safecast_CzechRad_graph_CPM.png" alt="CzechRad vs. SAFECAST sensitivity - pulses per minute - CPM" width="700"/>
 
-<img src="/HARDWARE_details/images/CzechRad_vs_Safecast_graph.png" alt="CzechRad vs. SAFECAST sensitivity" width="700"/>
 
 ## Different high-voltage power supply
 
