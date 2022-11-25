@@ -26,6 +26,7 @@
 Four different Geiger units of almost the same dimensions were considered for the device. From left to right: LND 7317 (USA) - used in Safecast devices; Saint-Gobain S800-1193 (France / India) - almost identical to the LND, but cheaper, was tested, but production discontinued during CzechRad prototype development, SPF "CONSENSUS" Gamma 6 and Gamma 6-1 (Russian Federation) - brand new design in production (not old Soviet military stock). ~~The Gamma 6-1 was chosen for the final design.~~
 
 ***UPDATE - detector changed to LND 7317 (USA)***
+
 ***As a result of 2022 Russian invasion of Ukraine and subsequent sanctions against the Russian Federation it was not possible to use the Russian detector in the device. The detector board had to be significantly redesigned and the LND 7317 pancake tube was chosen for the final design. Thanks to this, CzechRad has the same detector as bGeigie Nano - e.g. same sensitivity and other parameters. It also makes it possible to use the CzechRad electronics and combine them with used detector and Pelican case from an unfunctional Safecast bGeigie Nano.***
 
 <img src="/HARDWARE_details/images/CzechRad_detectors_web.jpg" alt="CzechRad prototype with both boards and display" width="800"/>
