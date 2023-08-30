@@ -59,11 +59,4 @@ Konfigurace využívající pouze dvě desky s elektronikou by také měla zjedn
 
 ### CzechRad - vyrobeno v České Republice
 
-Obě desky s elektronikou jsou vyráběny a osazovány v České Republice firmou Tesla.
-
-*...Nemyslíme [tuhle Teslu](https://cs.wikipedia.org/wiki/Tesla_(automobilka)) založenou 2003 v USA, co vyrábí auta.*
-
-*...ale [tuhle Teslu](https://cs.wikipedia.org/wiki/Tesla_(podnik)) - tradičního výrobce elektrotechniky, založenou v Československu v roce 1946.*
-
-<img src="/Images/Tesla_Radio_vitrage_web.jpg" alt="Stained glass Tesla Radio logo in Passage Světozor in Prague, photo by Ludek, CC BY-SA 3.0" width="400"/>
-
+Obě desky s elektronikou jsou vyráběny a osazovány v České Republice.
