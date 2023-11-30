@@ -21,7 +21,7 @@ While Safecast bGeigie Nano mainly relies on the use of off-the-shelf commercial
 - built-in SD card slot
 - miniUSB for charging and data comm.
 
-<img src="/HARDWARE_details/images/CzechRad_mainboard.jpg" alt="CzechRad main board" width="800"/>
+<img src="/HARDWARE_details/images/CzechRad_mainboard.jpg" alt="CzechRad main board" width="400"/>
 
 ## Detector board
 - High Voltage power supply module by EMCO / XP Power instead of MEDCOM iRover
