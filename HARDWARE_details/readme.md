@@ -1,5 +1,9 @@
 # CzechRad detector - technical specifications
 
+While Safecast bGeigie Nano mainly relies on the use of off-the-shelf commercial third-party modules...
+
+<img src="/HARDWARE_details/images/schema_01_Safecast.jpg" alt="CzechRad prototype with both boards and display" width="800"/>
+
 *One board to rule them all? Not yet but close :-)*
 
 <img src="/HARDWARE_details/images/CzechRad_demo_web.JPG" alt="CzechRad prototype with both boards and display" width="800"/>
