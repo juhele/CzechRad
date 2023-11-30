@@ -1,5 +1,7 @@
 # CzechRad detector - technical specifications
 
+## comparison between Safecast bGeigie Nano and CzechRad
+
 While Safecast bGeigie Nano mainly relies on the use of off-the-shelf commercial third-party modules...
 
 <img src="/HARDWARE_details/images/schema_01_Safecast.jpg" alt="Safecast wiring diagram" width="800"/>
