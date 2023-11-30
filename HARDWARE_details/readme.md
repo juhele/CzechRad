@@ -2,12 +2,12 @@
 
 While Safecast bGeigie Nano mainly relies on the use of off-the-shelf commercial third-party modules...
 
-<img src="/HARDWARE_details/images/schema_01_Safecast.jpg" alt="CzechRad prototype with both boards and display" width="800"/>
+<img src="/HARDWARE_details/images/schema_01_Safecast.jpg" alt="Safecast wiring diagram" width="800"/>
 
+... CzechRad was designed to only rely on basic electronics components and uses own, custom-designed electronic boards
+
+<img src="/HARDWARE_details/images/schema_02_CzechRad.jpg" alt="CzechRad wiring diagram" width="800"/>
 *One board to rule them all? Not yet but close :-)*
-
-<img src="/HARDWARE_details/images/CzechRad_demo_web.JPG" alt="CzechRad prototype with both boards and display" width="800"/>
-
 - only two boards instead of several 3rd party made modules
 
 ## Main board
