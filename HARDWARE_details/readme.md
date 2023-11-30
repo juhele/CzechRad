@@ -27,7 +27,7 @@ While Safecast bGeigie Nano mainly relies on the use of off-the-shelf commercial
 - High Voltage power supply module by EMCO / XP Power instead of MEDCOM iRover
 - buzzer, LEDs
 
-<img src="/HARDWARE_details/images/CzechRad_detector_board_web.jpg" alt="CzechRad detector board" width="800"/>
+<img src="/HARDWARE_details/images/CzechRad_detector_board.jpg" alt="CzechRad detector board" width="400"/>
 
 ## Detector unit - Geiger tube
 
