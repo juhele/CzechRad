@@ -39,27 +39,6 @@ Four different Geiger units of almost the same dimensions were considered for th
 
 <img src="/HARDWARE_details/images/CzechRad_detectors_web.jpg" alt="CzechRad prototype with both boards and display" width="800"/>
 
-### SPF "CONSENSUS" Gamma 6-1 tube properties
-
-The [Gamma 6-1 tube](https://consensus-group.ru/radiation-counters/gamma-radiation/187-gamma-6-1) is also pancake type - but compared to the LND tube there is no  Mica window - e.g. we have given up the ability to measure other radiation than gamma (but such measurements were quite risky with the mechanically sensitive LND tube - potential Mica window damage etc.).
-
-But the advantages of the Gamma 6-1 tube are:
-
-- the tube is less sensitive to damage (no Mica window)
-
-- it is lighter - 35 g compared to 125 g of the LND tube
-
-- significantly higher sensitivity proven by field tests - below the same route measured at the same time by both devices:
-
-30 minute measurement - raw pulses per 5s interval
-
-<img src="/HARDWARE_details/images/Safecast_CzechRad_graph_pulses5s.png" alt="CzechRad vs. SAFECAST sensitivity - pulses 5s" width="700"/>
-
-more than 11 hours measurement - calculated pulses per minute
-
-<img src="/HARDWARE_details/images/Safecast_CzechRad_graph_CPM.png" alt="CzechRad vs. SAFECAST sensitivity - pulses per minute - CPM" width="700"/>
-
-
 ## Different high-voltage power supply
 
 The custom designed US iRover high voltage supply by IMI (International Medcom Inc.) used in bGeigie Nano is hard to get and it is not freely available on the market.
