@@ -15,6 +15,7 @@ Join us on Discord: https://discord.gg/rnXKZ6ZA
 
 (discussion community, you can discuss CzechRad-related topics and possibly also other radiation-related topics with us or with other users)
 
+### Technical details, photos
 
 [Technical details here](/HARDWARE_details)  
 [Gallery of high resolution photos here](https://flic.kr/s/aHsmUcpD1h)  
