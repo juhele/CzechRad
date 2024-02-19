@@ -10,7 +10,9 @@ Zařízení vyvíjí [Státní ústav radiační ochrany, v. v. i. (SÚRO)](http
 [Technical details here](/HARDWARE_details)  
 [Galerie fotografií ve vysokém rozlišení zde](https://flic.kr/s/aHsmUcpD1h)  
 
-<img src="Images/Safecast_vs_CzechRad.jpg" alt="CzechRad prototype copared with SAFECAST bGeigie Nano" width="800"/>
+<img src="Images/Safecast_vs_CzechRad.jpg" alt="Safecast bGeigie Nano (left) and current pre-production series CzechRad prototype" width="800"/>
+
+*Obr: Safecast bGeigie Nano (vlevo) a CzechRad z předprodukční série*
 
 Přístroj bude dokončen a vyroben v rámci projektu:
 
