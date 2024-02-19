@@ -11,7 +11,9 @@ The device is being developed by [National Radiation Protection Institute (SÚRO
 [Technical details here](/HARDWARE_details)  
 [Gallery of high resolution photos here](https://flic.kr/s/aHsmUcpD1h)  
 
-<img src="Images/Safecast_vs_CzechRad.jpg" alt="Safecast bGeigie Nano (left) and current production series CzechRad prototype" width="800"/>
+<img src="Images/Safecast_vs_CzechRad.jpg" alt="Safecast bGeigie Nano (left) and current pre-production series CzechRad prototype" width="800"/>
+
+Obb: Safecast bGeigie Nano (vlevo) a CzechRad z předprodukční série
 
 The device will be finished and manufactured within the project:
 
