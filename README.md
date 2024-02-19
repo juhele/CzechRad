@@ -13,7 +13,7 @@ The device is being developed by [National Radiation Protection Institute (SÚRO
 
 Join us on Discord: https://discord.gg/rnXKZ6ZA
 
-(discussion community, you can discuss various CzechRad and possibly also other radiation-related topics with us or with other users)
+(discussion community, you can discuss CzechRad-related topics and possibly also other radiation-related topics with us or with other users)
 
 
 [Technical details here](/HARDWARE_details)  
