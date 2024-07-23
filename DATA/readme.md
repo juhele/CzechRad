@@ -1,6 +1,7 @@
-### Radiation data sentence
+### CzechRad data structure
 
-This is the basic message containing the geo-located radiation measurement.
+In order to be compatible with the [SAFECAST API](https://api.safecast.org) and the [Radiation Toolbox Plugin](https://opengeolabs.gitlab.io/qgis-radiation-toolbox-plugin/) for [QGIS](https://www.qgis.org/) the CzechRad device produces data files in the same *.LOG format as SAFECAST bGeigie Nano.
+The file itself is just a plain text file with structured data.
 
 Example:
 
@@ -10,21 +11,21 @@ Example:
     $CZRA1,0159,2024-04-21T05:16:46Z,43,2,32811,A,5001.0000,N,01420.6353,E,391.02,A,6,164*1E
     $CZRA1,0159,2024-04-21T05:16:51Z,42,3,32814,A,5000.9668,N,01420.5859,E,390.56,A,6,164*1F
 
-0. Header : BNXRDD
-1. Device ID : Device serial number. `300`
-2. Date : Date formatted according to iso-8601 standard. Usually uses GMT. `2012-12-16T17:58:31Z`
-3. Radiation 1 minute : number of pulses given by the Geiger tube in the last minute. `30`
-4. Radiation 5 seconds : number of pulses given by the Geiger tube in the last 5 seconds. `1`
-5. Radiation total count : total number of pulses recorded since startup. `116`
+0. Header : CZRA1 (first units used CZRDD, current CzechRads use CZRA1, in future possibly others like CZRA2, CZRB1 etc.)
+1. Device ID : Device serial number. `0159`
+2. Date : Date formatted according to iso-8601 standard. Usually uses GMT/UTC. `2024-04-21T05:16:31Z`
+3. Radiation 1 minute : number of pulses given by the Geiger tube in the last minute. `42`
+4. Radiation 5 seconds : number of pulses given by the Geiger tube in the last 5 seconds. `7`
+5. Radiation total count : total number of pulses recorded since startup. `32804`
 6. Radiation count validity flag : 'A' indicates the counter has been running for more than one minute and the 1 minute count is not zero. Otherwise, the flag is 'V' (void). `A`
-7. Latitude : As given by GPS. The format is `ddmm.mmmm` where `dd` is in degrees and `mm.mmmm` is decimal minute. `4618.9612`
+7. Latitude : As given by GPS. The format is `ddmm.mmmm` where `dd` is in degrees and `mm.mmmm` is decimal minute. `5001.1094`
 8. Hemisphere : 'N' (north), or 'S' (south). `N`
-9. Longitude : As given by GPS. The format is `dddmm.mmmm` where `ddd` is in degrees and `mm.mmmm` is decimal minute. `00658.4831`
+9. Longitude : As given by GPS. The format is `dddmm.mmmm` where `ddd` is in degrees and `mm.mmmm` is decimal minute. `01420.7866`
 10. East/West : 'W' (west) or 'E' (east) from Greenwich. `E`
-11. Altitude : Above sea level as given by GPS in meters. `443.7`
+11. Altitude : Above sea level as given by GPS in meters. `384.69`
 12. GPS validity : 'A' ok, 'V' invalid. `A`
-13. HDOP : Horizontal Dilution of Precision (HDOP), relative accuracy of horizontal position. `1.28`
-14. Fix Quality : 0 = invalid, 1 = GPS Fix, 2 = DGPS Fix. `1`
-15. Checksum. `*1D`
+13. Number of satellites : 	the number of satellites used by the GPS `5`
+14. HDOP : Horizontal Dilution of Precision (HDOP), relative accuracy of horizontal position. `193`
+15. Checksum. `*1C`
 
 The text above is based on [Safecast bGeigie Library](https://github.com/Safecast/bGeigieMini/blob/master/README.md) documentation.
