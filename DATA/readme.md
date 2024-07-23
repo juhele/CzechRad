@@ -26,3 +26,5 @@ Example:
 13. HDOP : Horizontal Dilution of Precision (HDOP), relative accuracy of horizontal position. `1.28`
 14. Fix Quality : 0 = invalid, 1 = GPS Fix, 2 = DGPS Fix. `1`
 15. Checksum. `*1D`
+
+The text above is based on [Safecast bGeigie Library](https://github.com/Safecast/bGeigieMini/blob/master/README.md) documentation.
