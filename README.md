@@ -18,6 +18,7 @@ Join us on Discord: https://discord.gg/rnXKZ6ZA
 ### Technical details, photos
 
 [Technical details here](/HARDWARE_details)  
+[Data format and structure](/DATA)  
 [Gallery of high resolution photos here](https://flic.kr/s/aHsmUcpD1h)  
 
 <img src="Images/Safecast_vs_CzechRad.jpg" alt="Safecast bGeigie Nano (left) and current pre-production series CzechRad" width="800"/>
