@@ -3,6 +3,10 @@
 In order to be compatible with the [SAFECAST API](https://api.safecast.org) and the [Radiation Toolbox Plugin](https://opengeolabs.gitlab.io/qgis-radiation-toolbox-plugin/) for [QGIS](https://www.qgis.org/) the CzechRad device produces data files in the same *.LOG format as SAFECAST bGeigie Nano.
 The file itself is just a plain text file with structured data.
 
+### LOG file naming
+
+The file naming system is the same for CzechRad as used for Safecast devices. Each LOG file - e.g. "24570614.LOG" starts with the four-digit number of the device (in this case 2457) and then with the start date of the measurement in the month-day format, here "0614", i.e. June 14. Unfortunately, the files do not contain the year in the name, so it is advisable to gradually organize them into folders according to the year of measurement, so that you do not end up with measurement files with the same date, but from different years having the same filename and thus colliding.
+
 ### CzechRad LOG file structure
 
 Example:
