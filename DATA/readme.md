@@ -34,9 +34,13 @@ The text above is based on [Safecast bGeigie Library](https://github.com/Safecas
 
 The dose rate values in microSieverts per hour (μSv/h) are not a part of the LOG data files. The dose rate (more precisely "ambient dose equivalent rate" - ADER) values are calculated temporarily by the device (SAFECAST bGeigie Nano, CzechRad etc.) and then by other applications like [SAFECAST API](https://api.safecast.org) or [Radiation Toolbox Plugin](https://opengeolabs.gitlab.io/qgis-radiation-toolbox-plugin/) for [QGIS](https://www.qgis.org/). We use calculation from "pulse5s" values (number of pulses given by the Geiger tube in the last 5 seconds).
 
-For Safecast data the 0.0029940119760479 (=1/334) is used following the official [Safecast github](https://github.com/Safecast/safecastapi/blob/7cbf30add95b9616f0a3d13087e9f9404f78279e/script/ios_query.sql#L14).
+For Safecast data the 0.0029940119760479 (=1/334) is used following the official [Safecast github](https://github.com/Safecast/safecastapi/blob/7cbf30add95b9616f0a3d13087e9f9404f78279e/script/ios_query.sql#L14). CzechRad has slightly different callibration coefficient 0.0030441400304414  
+(1/328,5).
 
 #### SAFECAST bGeigie Nano dose rate calculation
 
 ADER = (pulse5s * 12) * 0.0029940119760479
 
+#### CzechRad dose rate calculation
+
+ADER = (pulse5s * 12) * 0.0030441400304414
