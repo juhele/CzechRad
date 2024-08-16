@@ -1,4 +1,4 @@
-### CzechRad data format
+## CzechRad data format
 
 In order to be compatible with the [SAFECAST API](https://api.safecast.org) and the [Radiation Toolbox Plugin](https://opengeolabs.gitlab.io/qgis-radiation-toolbox-plugin/) for [QGIS](https://www.qgis.org/) the CzechRad device produces data files in the same *.LOG format as SAFECAST bGeigie Nano.
 The file itself is just a plain text file with structured data.
