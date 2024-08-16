@@ -29,3 +29,7 @@ Example:
 15. Checksum. `*1C`
 
 The text above is based on [Safecast bGeigie Library](https://github.com/Safecast/bGeigieMini/blob/master/README.md) documentation.
+
+### Dose rate calculation
+
+The dose rate values in microSieverts per hour (μSv/h) are not a part of the LOG data files. The dose rate (more precisely "ambient dose equivalent rate" - ADER) values are calculated temporarily by the device (SAFECAST bGeigie Nano, CzechRad etc.) and then by other applications like [SAFECAST API](https://api.safecast.org) or [Radiation Toolbox Plugin](https://opengeolabs.gitlab.io/qgis-radiation-toolbox-plugin/) for [QGIS](https://www.qgis.org/).
