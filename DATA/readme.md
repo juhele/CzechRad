@@ -7,6 +7,8 @@ The file itself is just a plain text file with structured data.
 
 The file naming system is the same for CzechRad as used for Safecast devices. Each LOG file - e.g. "24570614.LOG" starts with the four-digit number of the device (in this case 2457) and then with the start date of the measurement in the month-day format, here "0614", i.e. June 14. Unfortunately, the files do not contain the year in the name, so it is advisable to gradually organize them into folders according to the year of measurement, so that you do not end up with measurement files with the same date, but from different years having the same filename and thus colliding.
 
+Only one file is generated in one day, containing all the measurements. Combined (e.g. walk + car) measurements can easily be split into separate files using [QGIS](https://www.qgis.org/) and [Radiation Toolbox Plugin](https://opengeolabs.gitlab.io/qgis-radiation-toolbox-plugin/). The LOG files from the device do not have proper file timestamp so filename has to be used to distinguish date of the measurement.
+
 ### CzechRad LOG file structure
 
 Example:
