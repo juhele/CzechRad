@@ -21,6 +21,20 @@ Download package in ZIP file (click the link and then the Download raw file icon
 
 Unpack to your computer. In GNU/Linux environment copy the CzechRad or Safecast *.LOG data you wan to process to "input" folder. In GNU/Linux environment run terminal window from the script folder (can be usually done from default file manager) and then just drag and drop the *.sh file in your terminal window and press Enter.
 
+
+## Script 02 - sort the *.LOG files from "input" into subfolders (in "output") according to the year and month of measurement
+
+This script scans "input" directory for *.LOG files and copies those containing "2024" inside to "output" folder. Feel free to replace "2024" with other year according to your needs. Under Windows, I recommend using more advanced text editors like [PSPad](https://www.pspad.com/en/), [Notepad++](https://notepad-plus-plus.org/) for script editing and not using default Notepad in Windows - just to be safe. 
+
+**Download:** [CzechRad_script_001_find_2024_data.zip (2.63 KB)](https://github.com/juhele/CzechRad/blob/main/SCRIPTS/CzechRad_script_001_find_2024_data.zip)
+
+**Use:**
+Download package in ZIP file (click the link and then the Download raw file icon):
+
+<img src="_images/download_raw.png" alt="Download raw file icon">
+
+Unpack to your computer. In GNU/Linux environment copy the CzechRad or Safecast *.LOG data you wan to process to "input" folder. In GNU/Linux environment run terminal window from the script folder (can be usually done from default file manager) and then just drag and drop the *.sh file in your terminal window and press Enter.
+
 ## License:
 
 Created with Grok AI, released under MIT No Attribution License
