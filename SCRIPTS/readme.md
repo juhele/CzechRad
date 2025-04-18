@@ -2,7 +2,7 @@
 
 Here I provide scripts for working with CzechRad data. I am not a programmer, but I can do fine tuning / debugging of the scripts if AI writes them for me first. If it helps you, feel free to use the scripts published here. I cannot provide technical support for these scripts or modify them at your request.
 
-Script 01 - find and copy all *.LOG files from "input" to "output" folder
+## Script 01 - find and copy all *.LOG files from "input" to "output" folder
 
 This script scans "input" directory for *.LOG files and copies those containing "2024" inside to "output" folder. Feel free to replace "2024" with other year according to your needs.
 
