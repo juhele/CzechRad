@@ -27,7 +27,7 @@ This script scans "input" directory for *.LOG files and sorts them into subfolde
 
 **Download:** [CzechRad_script_002_sort_into_folders.zip (2.97 KB)](https://github.com/juhele/CzechRad/blob/main/SCRIPTS/CzechRad_script_002_sort_into_folders.zip)
 
-## Script 03 - sort the *.LOG files from "input" into subfolders (in "output") according to the year and month of measurement
+## Script 03 - calculate statistics for *.LOG files in a folder
 
 This script scans "input" directory for *.LOG files and calculates a summary statistics file in a comma separated CSV file you can easily load in spreadsheet software like Microsoft Excel or LibreOffice Calc. This is a draft version as it still has problems to calculate maximum value of dose rate (ADER_max) for each file. The rest works well, the result looks like:
 
