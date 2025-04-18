@@ -12,7 +12,7 @@ This script scans "input" directory for *.LOG files and copies those containing 
 
 platform:
 
-license:
+## License:
 
 Created with Grok AI, released under MIT No Attribution License
 Copyright 2024 Jan Helebrant, czechrad@suro.cz, www.suro.cz
