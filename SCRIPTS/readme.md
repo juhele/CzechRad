@@ -6,6 +6,8 @@ Here I provide scripts for working with CzechRad data. I am not a programmer, bu
 
 After several negative experiences on Windows, we are creating these scripts only for GNU/Linux. It is beyond our time to determine whether the problem was in Windows or in the limitations of the corporate Windows environment... It works in Linux, the scripts can be easily deployed on a server, and anyone can set up a Linux environment on their computer for free, for example using [ORACLE Virtualbox](https://www.virtualbox.org/wiki/Downloads) - including institutions/companies. For a lightweight installation, we recommend [current LTS version of Lubuntu Linux](https://lubuntu.me/downloads/).
 
+Tested on current LTS (K)Ubuntu but should work on Debian Linux without any problems. Scripts use standard tools like "grep", "sed" etc.
+
 ## Script 01 - find and copy all *.LOG files measured in particular year from "input" to "output" folder
 
 This script scans "input" directory for *.LOG files and copies those containing "2024" inside to "output" folder. Feel free to replace "2024" with other year according to your needs. Under Windows, I recommend using more advanced text editors like [PSPad](https://www.pspad.com/en/), [Notepad++](https://notepad-plus-plus.org/) for script editing and not using default Notepad in Windows - just to be safe. 
@@ -17,7 +19,7 @@ Download package in ZIP file (click the link and then the Download raw file icon
 
 <img src="_images/download_raw.png" alt="Download raw file icon">
 
-unpack to your computer and then just drag and drop the particular file to your app - *.tif or *.sdat file to QGIS, for SAGA GIS use *.sdat or *.sgrd file.
+unpack to your computer. In GNU/Linux environment copy the data you wan to process to "input" folder. In GNU/Linux environment run terminal window from the script folder (can be usually done from default file manager) and then just drag and drop the *.sh file to your app - *.tif or *.sdat file to QGIS, for SAGA GIS use *.sdat or *.sgrd file.
 
 
 ## License:
