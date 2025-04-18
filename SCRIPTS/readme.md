@@ -27,13 +27,6 @@ This script scans "input" directory for *.LOG files and copies those containing 
 
 **Download:** [CzechRad_script_001_find_2024_data.zip (2.63 KB)](https://github.com/juhele/CzechRad/blob/main/SCRIPTS/CzechRad_script_001_find_2024_data.zip)
 
-**Use:**
-Download package in ZIP file (click the link and then the Download raw file icon):
-
-<img src="_images/download_raw.png" alt="Download raw file icon">
-
-Unpack to your computer. In GNU/Linux environment copy the CzechRad or Safecast *.LOG data you wan to process to "input" folder. In GNU/Linux environment run terminal window from the script folder (can be usually done from default file manager) and then just drag and drop the *.sh file in your terminal window and press Enter.
-
 ## License:
 
 Created with Grok AI, released under MIT No Attribution License
