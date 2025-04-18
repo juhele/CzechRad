@@ -4,7 +4,7 @@ Here I provide scripts for working with CzechRad data. I am not a programmer, bu
 
 ## Supported Platform
 
-After several negative experiences on Windows, we are creating these scripts only for GNU/Linux. It is beyond our time to determine whether the problem was in Windows or in the limitations of the corporate Windows environment... It works in Linux, the scripts can be easily deployed on a server, and anyone can set up a Linux environment on their computer for free, for example using ORACLE Virtualbox - including institutions/companies.
+After several negative experiences on Windows, we are creating these scripts only for GNU/Linux. It is beyond our time to determine whether the problem was in Windows or in the limitations of the corporate Windows environment... It works in Linux, the scripts can be easily deployed on a server, and anyone can set up a Linux environment on their computer for free, for example using ORACLE Virtualbox - including institutions/companies. For a lightweight installation, we recommend Lubuntu Linux.
 
 ## Script 01 - find and copy all *.LOG files from "input" to "output" folder
 
