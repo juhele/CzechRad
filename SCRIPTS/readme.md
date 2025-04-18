@@ -19,8 +19,7 @@ Download package in ZIP file (click the link and then the Download raw file icon
 
 <img src="_images/download_raw.png" alt="Download raw file icon">
 
-unpack to your computer. In GNU/Linux environment copy the data you wan to process to "input" folder. In GNU/Linux environment run terminal window from the script folder (can be usually done from default file manager) and then just drag and drop the *.sh file to your app - *.tif or *.sdat file to QGIS, for SAGA GIS use *.sdat or *.sgrd file.
-
+unpack to your computer. In GNU/Linux environment copy the data you wan to process to "input" folder. In GNU/Linux environment run terminal window from the script folder (can be usually done from default file manager) and then just drag and drop the *.sh file in your terminal window and press Enter.
 
 ## License:
 
