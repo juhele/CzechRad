@@ -6,7 +6,7 @@ Here I provide scripts for working with CzechRad data. I am not a programmer, bu
 
 After several negative experiences on Windows, we are creating these scripts only for GNU/Linux. It is beyond our time to determine whether the problem was in Windows or in the limitations of the corporate Windows environment... It works in Linux, the scripts can be easily deployed on a server, and anyone can set up a Linux environment on their computer for free, for example using [ORACLE Virtualbox](https://www.virtualbox.org/wiki/Downloads) - including institutions/companies. For a lightweight installation, we recommend [current LTS version of Lubuntu Linux](https://lubuntu.me/downloads/).
 
-## Script 01 - find and copy all *.LOG files from "input" to "output" folder
+## Script 01 - find and copy all *.LOG files measured in particular year from "input" to "output" folder
 
 This script scans "input" directory for *.LOG files and copies those containing "2024" inside to "output" folder. Feel free to replace "2024" with other year according to your needs. Under Windows, I recommend using more advanced text editors like [PSPad](https://www.pspad.com/en/), [Notepad++](https://notepad-plus-plus.org/) for script editing and not using default Notepad in Windows - just to be safe. 
 
