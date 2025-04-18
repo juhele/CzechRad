@@ -10,6 +10,14 @@ After several negative experiences on Windows, we are creating these scripts onl
 
 This script scans "input" directory for *.LOG files and copies those containing "2024" inside to "output" folder. Feel free to replace "2024" with other year according to your needs. Under Windows, I recommend using more advanced text editors like [PSPad](https://www.pspad.com/en/), [Notepad++](https://notepad-plus-plus.org/) for script editing and not using default Notepad in Windows - just to be safe. 
 
+**Use:**
+Download package in ZIP file (click the link and then the Download raw file icon):
+
+<img src="_images/download_raw.png" alt="Download raw file icon">
+
+unpack to your computer and then just drag and drop the particular file to your app - *.tif or *.sdat file to QGIS, for SAGA GIS use *.sdat or *.sgrd file.
+
+
 ## License:
 
 Created with Grok AI, released under MIT No Attribution License
