@@ -1,6 +1,6 @@
 # CzechRad scripts
 
-Here I provide scripts for working with CzechRad data. I am not a programmer, but I can do fine tuning / debugging of the scripts if AI writes them for me first. If it helps you, feel free to use the scripts published here. I cannot provide technical support for these scripts or modify them at your request.
+Here I provide scripts for working with CzechRad data. I am not a programmer, but I can do fine tuning / debugging of the scripts if AI writes them for me first. If it helps you, feel free to use the scripts published here. I cannot provide technical support for these scripts or modify them at your request. If you make any useful modifications to the script, or write a new script, please consider sharing it with other CzechRad users here. Thank you
 
 ## Script 01 - find and copy all *.LOG files from "input" to "output" folder
 
