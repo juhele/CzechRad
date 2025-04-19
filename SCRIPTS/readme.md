@@ -40,7 +40,7 @@ file,device_type,device_ID,date,start_time_UTC,points,duration,ADER_max
 
 Under Windows, I recommend using more advanced text editors like [PSPad](https://www.pspad.com/en/), [Notepad++](https://notepad-plus-plus.org/) for script editing and not using default Notepad in Windows - just to be safe. 
 
-**Download:** [CzechRad_script_003_log_statistics.zip (3.21 KB)](https://github.com/juhele/CzechRad/blob/main/SCRIPTS/CzechRad_script_003_log_statistics.zip)
+**Download:** [CzechRad_script_003_log_statistics.zip (3.18 KB)](SCRIPTS/CzechRad_script_003_log_statistics_v2.zip)
 
 ## License:
 
