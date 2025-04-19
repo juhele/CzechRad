@@ -37,6 +37,7 @@ file,device_type,device_ID,date,start_time_UTC,points,duration,ADER_max
 04860411_l.LOG,CZRDD,0486,2025-04-11,14:03:26,333,00:27:45,0.4018
 04860413_l.LOG,CZRDD,0486,2025-04-13,07:33:32,784,01:05:20,0.3653
 ```
+ADER_max is calculated from the number of pulses from five-second measurements. The ADER values ​​calculated in this way fluctuate greatly and therefore the maximum values ​​may be higher.
 
 Under Windows, I recommend using more advanced text editors like [PSPad](https://www.pspad.com/en/), [Notepad++](https://notepad-plus-plus.org/) for script editing and not using default Notepad in Windows - just to be safe. 
 
