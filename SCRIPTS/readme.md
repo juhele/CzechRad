@@ -29,7 +29,7 @@ This script scans "input" directory for *.LOG files and sorts them into subfolde
 
 ## Script 03 - calculate statistics for *.LOG files in a folder
 
-This script scans "input" directory for *.LOG files and calculates a summary statistics file in a comma separated CSV file you can easily load in spreadsheet software like Microsoft Excel or LibreOffice Calc. This is a draft version as it still has problems to calculate maximum value of dose rate (ADER_max) for each file. The rest works well, the result looks like:
+This script scans "input" directory for *.LOG files and calculates a summary statistics file in a comma separated CSV file you can easily load in spreadsheet software like Microsoft Excel or LibreOffice Calc. The result looks like:
 
 ```
 file,device_type,device_ID,date,start_time_UTC,points,duration,ADER_max
