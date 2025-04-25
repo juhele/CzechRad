@@ -44,7 +44,7 @@ Under Windows, I recommend using more advanced text editors like [PSPad](https:/
 **Download:** 
 
 **Linux bash:**
-[CzechRad_script_003_log_statistics_1_linux_bash.zip (3.77 KB)](https://github.com/juhele/CzechRad/blob/main/SCRIPTS/CzechRad_script_003_log_statistics_3_Windows_x86_source_code.zip)
+[CzechRad_script_003_log_statistics_1_linux_bash.zip (3.77 KB)](https://github.com/juhele/CzechRad/blob/main/SCRIPTS/CzechRad_script_003_log_statistics_1_linux_bash.zip)
 
 ## License:
 
