@@ -46,6 +46,13 @@ Under Windows, I recommend using more advanced text editors like [PSPad](https:/
 **Linux bash:**
 [CzechRad_script_003_log_statistics_1_linux_bash.zip (3.77 KB)](https://github.com/juhele/CzechRad/blob/main/SCRIPTS/CzechRad_script_003_log_statistics_1_linux_bash.zip)
 
+**MS Windows - EXE application:**
+[CzechRad_script_003_log_statistics_2_Windows_x86_EXE.zip (832.0 KB)](https://github.com/juhele/CzechRad/blob/main/SCRIPTS/CzechRad_script_003_log_statistics_2_Windows_x86_EXE.zip)
+
+**MS Windows - source code for programmers:**
+[CzechRad_script_003_log_statistics_1_linux_bash.zip (3.77 KB)](https://github.com/juhele/CzechRad/blob/main/SCRIPTS/CzechRad_script_003_log_statistics_1_linux_bash.zip)
+
+
 ## License:
 
 Created with Grok AI, released under MIT No Attribution License
