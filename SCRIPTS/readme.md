@@ -4,10 +4,12 @@ Here I provide scripts for working with CzechRad data. I am not a programmer, bu
 
 ## Supported Platform
 
+**GNU/Linux**
 After several negative experiences on Windows, we are creating these scripts primarily for GNU/Linux. It works in Linux, the scripts can be easily deployed on a server, and anyone can set up a Linux environment on their computer for free, for example using [ORACLE Virtualbox](https://www.virtualbox.org/wiki/Downloads) - including institutions/companies. For a lightweight installation, we recommend [current LTS version of Lubuntu Linux](https://lubuntu.me/downloads/).
 
 Tested on current LTS (K)Ubuntu but should work on Debian Linux without any problems. Scripts use standard tools like "grep", "sed" etc.
 
+**Microsoft Windows**
 However, recently we also managed to create a working Windows versions of some of the scripts, tested on Windows 10 and 11.
 
 **Use:**
