@@ -56,7 +56,7 @@ Under Windows, I recommend using more advanced text editors like [PSPad](https:/
 [CzechRad_script_003_log_statistics_2_Windows_x86_EXE.zip (832.0 KB)](https://github.com/juhele/CzechRad/blob/main/SCRIPTS/CzechRad_script_003_log_statistics_2_Windows_x86_EXE.zip)
 
 **MS Windows - source code for programmers:**
-[CzechRad_script_003_log_statistics_1_linux_bash.zip (3.77 KB)](https://github.com/juhele/CzechRad/blob/main/SCRIPTS/CzechRad_script_003_log_statistics_1_linux_bash.zip)
+[CzechRad_script_003_log_statistics_3_Windows_x86_source_code.zip (744.0 KB)](https://github.com/juhele/CzechRad/blob/main/SCRIPTS/CzechRad_script_003_log_statistics_3_Windows_x86_source_code.zip)
 
 
 ## License:
