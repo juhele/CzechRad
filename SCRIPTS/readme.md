@@ -12,7 +12,7 @@ Tested on current LTS (K)Ubuntu but should work on Debian Linux without any prob
 
 **Microsoft Windows 64bit**
 
-However, recently we also managed to create a working Windows versions of some of the scripts, tested on Windows 10 and 11.
+However, recently we also managed to create a working Windows versions of some of the scripts, tested on Windows 10 and 11. The exe files are portable, do not require admin rights or external librarires.
 
 **Use:**
 
