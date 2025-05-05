@@ -103,11 +103,8 @@ CzechRad,CZRA1,0007,2025-01-25,15:13:28,28,0.0122,500.053777,14.515567,295.45,4,
 
 **Download:** 
 
-**Linux bash:**
-[CzechRad_script_003_log_statistics_1_linux_bash.zip (3.77 KB)](https://github.com/juhele/CzechRad/blob/main/SCRIPTS/CzechRad_script_003_log_statistics_1_linux_bash.zip)
-
 **MS Windows - EXE application:**
-[CzechRad_script_003_log_statistics_2_Windows_x86_EXE.zip (832.0 KB)](https://github.com/juhele/CzechRad/blob/main/SCRIPTS/CzechRad_script_003_log_statistics_2_Windows_x86_EXE.zip)
+[https://github.com/juhele/CzechRad/blob/main/SCRIPTS/CzechRad_script_004_LOG2CSV-converter_1_Windows_x86_EXE_rc1.zip (756.0 KB)](https://github.com/juhele/CzechRad/blob/main/SCRIPTS/CzechRad_script_004_LOG2CSV-converter_1_Windows_x86_EXE_rc1.zip)
 
 **MS Windows - source code for programmers:**
 [CzechRad_script_003_log_statistics_3_Windows_x86_source_code.zip (744.0 KB)](https://github.com/juhele/CzechRad/blob/main/SCRIPTS/CzechRad_script_003_log_statistics_3_Windows_x86_source_code.zip)
