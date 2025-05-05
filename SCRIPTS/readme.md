@@ -59,7 +59,7 @@ Under Windows, I recommend using more advanced text editors like [PSPad](https:/
 **MS Windows - source code for programmers:**
 [CzechRad_script_003_log_statistics_3_Windows_x86_source_code.zip (744.0 KB)](https://github.com/juhele/CzechRad/blob/main/SCRIPTS/CzechRad_script_003_log_statistics_3_Windows_x86_source_code.zip)
 
-## Script 04 - LOG2CSV-converter for Windows
+## Script 04 - LOG2CSV-converter for Windows (initial release for testing)
 
 This application scans "input" directory for *.LOG files and converts every LOG file in a comma separated CSV file you can easily load in spreadsheet software like Microsoft Excel or LibreOffice Calc. Detects CzechRad and Safecast file using the device string and calculates the dose rate (ADER) values using appropriate conversion factor.
 
