@@ -59,7 +59,7 @@ Under Windows, I recommend using more advanced text editors like [PSPad](https:/
 **MS Windows - source code for programmers:**
 [CzechRad_script_003_log_statistics_3_Windows_x86_source_code.zip (744.0 KB)](https://github.com/juhele/CzechRad/blob/main/SCRIPTS/CzechRad_script_003_log_statistics_3_Windows_x86_source_code.zip)
 
-## Script 04 - LOG2CSV-converter for Windows (initial release for testing)
+## Script 04 - LOG2CSV-converter for Windows
 
 This application scans "input" directory for *.LOG files and converts every LOG file in a comma separated CSV file you can easily load in spreadsheet software like Microsoft Excel or LibreOffice Calc. The app is able to distinguish data from CzechRad and Safecast devices based on device strings in the LOG file and calculate the dose rate (ADER) values using appropriate conversion factor.
 
@@ -87,8 +87,8 @@ Safecast output sample:
 
 ```
 device,device_type,device_ID,date,time_UTC,CPM,ADER_microSvh,latitude,longitude,altitude,pulses5s,pulses_total,GPS_validity,Sat,HDOP
-Safecast,BNRDD,2408,2022-03-20,15:30:42,34,0.0120,500.052605,14.515433,242.80,4,42,A,4,210
-Safecast,BNRDD,2408,2022-03-20,15:30:47,32,0.0060,500.052568,14.515433,243.70,2,44,A,4,210
+Safecast,BNRDD,2408,2022-03-20,15:30:42,34,0.0120,50.052605,14.515433,242.80,4,42,A,4,210
+Safecast,BNRDD,2408,2022-03-20,15:30:47,32,0.0060,50.052568,14.515433,243.70,2,44,A,4,210
 Safecast,BNRDD,2408,2022-03-20,15:30:52,31,0.0000,500.052510,14.515442,244.00,0,44,A,4,210
 ```
 
@@ -96,9 +96,9 @@ CzechRad output sample:
 
 ```
 device,device_type,device_ID,date,time_UTC,CPM,ADER_microSvh,latitude,longitude,altitude,pulses5s,pulses_total,GPS_validity,Sat,HDOP
-CzechRad,CZRA1,0007,2025-01-25,15:13:18,26,0.0091,500.053703,14.515428,284.32,3,867,A,5,826
-CzechRad,CZRA1,0007,2025-01-25,15:13:23,25,0.0091,500.053735,14.515513,290.94,3,870,A,5,829
-CzechRad,CZRA1,0007,2025-01-25,15:13:28,28,0.0122,500.053777,14.515567,295.45,4,874,A,5,832
+CzechRad,CZRA1,0007,2025-01-25,15:13:18,26,0.0091,50.053703,14.515428,284.32,3,867,A,5,826
+CzechRad,CZRA1,0007,2025-01-25,15:13:23,25,0.0091,50.053735,14.515513,290.94,3,870,A,5,829
+CzechRad,CZRA1,0007,2025-01-25,15:13:28,28,0.0122,50.053777,14.515567,295.45,4,874,A,5,832
 ```
 
 **Download:** 
