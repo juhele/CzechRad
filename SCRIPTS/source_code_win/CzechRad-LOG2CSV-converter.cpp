@@ -104,8 +104,10 @@ bool processLogFile(const fs::path& logPath, const fs::path& outputDir) {
 
             // Calculate ADER_microSvh
             double ader = (device == "Safecast") ? 
-                pulses5s * 0.0029940119760479 : 
-                pulses5s * 0.0030441400304414;
+                pulses5s * 0.0359281437125749:
+                pulses5s * 0.0365296803652968;
+            // for Safecast ADER_microSvh = (CP5s * 12) * 0.0029940119760479 = CP5s * 0.0359281437125749
+            // for CzechRad ADER_microSvh = (CP5s * 12) * 0.0030441400304414 = CP5s * 0.0365296803652968
 
             // Convert latitude and longitude
             double latitude = convertToDecimalDegrees(columns[7], columns[8][0]);
@@ -202,3 +204,11 @@ int main() {
 
     return 0;
 }
+
+// Created with Grok AI, released under MIT No Attribution License
+// Copyright 2025 Jan Helebrant, czechrad@suro.cz, www.suro.cz
+
+// Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so.
+
+// THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
