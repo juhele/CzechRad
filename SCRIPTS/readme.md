@@ -86,7 +86,7 @@ Safecast output sample:
 device,device_type,device_ID,date,time_UTC,CPM,ADER_microSvh,latitude,longitude,altitude,pulses5s,pulses_total,GPS_validity,Sat,HDOP
 Safecast,BNRDD,2408,2022-03-20,15:30:42,34,0.0120,50.052605,14.515433,242.80,4,42,A,4,210
 Safecast,BNRDD,2408,2022-03-20,15:30:47,32,0.0060,50.052568,14.515433,243.70,2,44,A,4,210
-Safecast,BNRDD,2408,2022-03-20,15:30:52,31,0.0000,500.052510,14.515442,244.00,0,44,A,4,210
+Safecast,BNRDD,2408,2022-03-20,15:30:52,31,0.0000,50.052510,14.515442,244.00,0,44,A,4,210
 ```
 
 CzechRad output sample:
