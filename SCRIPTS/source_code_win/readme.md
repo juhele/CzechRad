@@ -6,8 +6,13 @@ Requires mingw-w64 - in Ubuntu / Debian based linux distributions use this comma
 `sudo apt-get install mingw-w64`
 
 to install it. 
-
 Compilation was performed in current Kubuntu LTS, compilation commands creating a static Windows binary are provided below.
+
+Compilation Instructions:
+
+Use a C++17-compliant compiler (e.g., MSVC in Visual Studio).
+Link against the Windows API (included by default in Windows environments).
+Ensure the C++ standard library supports <filesystem> (C++17 or later).
 
 ## CzechRadStats:
 
