@@ -56,9 +56,6 @@ Under Windows, I recommend using more advanced text editors like [PSPad](https:/
 **MS Windows - EXE application:**
 [CzechRad_script_003_log_statistics_2_Windows_x86_EXE.zip (832.0 KB)](https://github.com/juhele/CzechRad/blob/main/SCRIPTS/CzechRad_script_003_log_statistics_2_Windows_x86_EXE.zip)
 
-**MS Windows - source code for programmers:**
-[CzechRad_script_003_log_statistics_3_Windows_x86_source_code.zip (744.0 KB)](https://github.com/juhele/CzechRad/blob/main/SCRIPTS/CzechRad_script_003_log_statistics_3_Windows_x86_source_code.zip)
-
 ## Script 04 - LOG2CSV-converter for Windows
 
 This application scans "input" directory for *.LOG files and converts every LOG file in a comma separated CSV file you can easily load in spreadsheet software like Microsoft Excel or LibreOffice Calc. The app is able to distinguish data from CzechRad and Safecast devices based on device strings in the LOG file and calculate the dose rate (ADER) values using appropriate conversion factor.
@@ -104,10 +101,7 @@ CzechRad,CZRA1,0007,2025-01-25,15:13:28,28,0.0122,50.053777,14.515567,295.45,4,8
 **Download:** 
 
 **MS Windows - EXE application:**
-[CzechRad_script_004_LOG2CSV-converter_1_Windows_x86_EXE_rc1.zip (756.0 KB)](https://github.com/juhele/CzechRad/blob/main/SCRIPTS/CzechRad_script_004_LOG2CSV-converter_1_Windows_x86_EXE_rc1.zip)
-
-**MS Windows - source code for programmers:**
-[CzechRad_script_004_LOG2CSV-converter_2_Windows_x86_source_code_rc1.zip (738.0 KB)](https://github.com/juhele/CzechRad/blob/main/SCRIPTS/CzechRad_script_004_LOG2CSV-converter_2_Windows_x86_source_code_rc1.zip)
+[CzechRad_script_004_LOG2CSV-converter_Windows_x86_EXE.zip (680.0 KB)](https://github.com/juhele/CzechRad/blob/main/SCRIPTS/CzechRad_script_004_LOG2CSV-converter_Windows_x86_EXE.zip)
 
 
 ## License:
