@@ -18,5 +18,5 @@ Compilation was performed in current Kubuntu LTS, compilation commands creating 
 ## CzechRad-LOG2CSV-converter:
 
 - run in terminal:
-- 
+
 `x86_64-w64-mingw32-g++ -std=c++17 -I fmt/include CzechRad-LOG2CSV-converter.cpp -o CzechRad-LOG2CSV-converter.exe -static`
