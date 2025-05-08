@@ -6,6 +6,7 @@
 #include <filesystem>
 #include <windows.h>
 #include <iomanip>
+#include <algorithm>
 
 namespace fs = std::filesystem;
 
@@ -149,12 +150,17 @@ int main() {
         return 1;
     }
 
-    // Collect all *.LOG files recursively
+    // Collect all *.LOG and *.log files recursively
     std::vector<fs::path> logFiles;
     try {
         for (const auto& entry : fs::recursive_directory_iterator(inputDir)) {
-            if (entry.is_regular_file() && entry.path().extension() == ".LOG") {
-                logFiles.push_back(entry.path());
+            if (entry.is_regular_file()) {
+                std::string ext = entry.path().extension().string();
+                // Convert extension to lowercase for case-insensitive comparison
+                std::transform(ext.begin(), ext.end(), ext.begin(), ::tolower);
+                if (ext == ".log") {
+                    logFiles.push_back(entry.path());
+                }
             }
         }
     } catch (const fs::filesystem_error& e) {
