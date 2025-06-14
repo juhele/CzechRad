@@ -27,3 +27,10 @@ Ensure the C++ standard library supports <filesystem> (C++17 or later).
 - run in terminal:
 
 `x86_64-w64-mingw32-g++ -std=c++17 -I fmt/include CzechRad-LOG2CSV-converter.cpp -o CzechRad-LOG2CSV-converter.exe -static`
+
+
+## CzechRad Log Patcher:
+
+- run in terminal:
+
+`x86_64-w64-mingw32-g++ CzechRadLogPatcherPortable.cpp -o CzechRadLogPatcher.exe -std=c++17 -static -static-libgcc -static-libstdc++`
