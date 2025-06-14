@@ -126,7 +126,7 @@ just put your LOG files in "input" folder and run the EXE.
 **Download:** 
 
 **MS Windows - EXE application:**
-[CzechRad_script_004_LOG2CSV-converter_Windows_x86_EXE.zip (680.0 KB)](https://github.com/juhele/CzechRad/blob/main/SCRIPTS/CzechRad_script_004_LOG2CSV-converter_Windows_x86_EXE.zip)
+[CzechRad_script_005_CzechRad_LOG_Patcher_Windows_x86_EXE.zip (673.0 KB)](https://github.com/juhele/CzechRad/blob/main/SCRIPTS/CzechRad_script_005_CzechRad_LOG_Patcher_Windows_x86_EXE.zip)
 
 
 ## License:
