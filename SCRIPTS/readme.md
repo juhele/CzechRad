@@ -110,13 +110,13 @@ This application scans "input" directory for *.LOG files and converts every LOG 
 
 The application will:
 
-Create a backup folder with timestamped backup of all *.LOG files
-Process *.LOG and *.log files recursively in the "input" folder
-Replace "CZRA1" with "CZRDD" and remove incorrectly used minus signs in GPS coordinates
-Recalculate checksums for data lines
-Move processed files to "output" folder
-Clear the "input" folder
-Prompt user to press Enter to exit
+- Create a backup folder with timestamped backup of all *.LOG files
+- Process *.LOG and *.log files recursively in the "input" folder
+- Replace "CZRA1" with "CZRDD" and remove incorrectly used minus signs in GPS coordinates
+- Recalculate checksums for data lines
+- Move processed files to "output" folder
+- Clear the "input" folder
+- Prompt user to press Enter to exit
 
 Usage:
 
