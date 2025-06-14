@@ -104,6 +104,31 @@ CzechRad,CZRA1,0007,2025-01-25,15:13:28,28,0.0122,50.053777,14.515567,295.45,4,8
 [CzechRad_script_004_LOG2CSV-converter_Windows_x86_EXE.zip (680.0 KB)](https://github.com/juhele/CzechRad/blob/main/SCRIPTS/CzechRad_script_004_LOG2CSV-converter_Windows_x86_EXE.zip)
 
 
+## Script 05 - Czechrad LOG Patcher for Windows
+
+This application scans "input" directory for *.LOG files and converts every LOG file to a "legacy" LOG file supported by the SAFECAST API. It also corrects some bugs if you have older firmware - incorrect negative GPS coordinates etc.
+
+The application will:
+
+Create a backup folder with timestamped backup of all *.LOG files
+Process *.LOG and *.log files recursively in the "input" folder
+Replace "CZRA1" with "CZRDD" and remove incorrectly used minus signs in GPS coordinates
+Recalculate checksums for data lines
+Move processed files to "output" folder
+Clear the "input" folder
+Prompt user to press Enter to exit
+
+Usage:
+
+just put your LOG files in "input" folder and run the EXE.
+
+
+**Download:** 
+
+**MS Windows - EXE application:**
+[CzechRad_script_004_LOG2CSV-converter_Windows_x86_EXE.zip (680.0 KB)](https://github.com/juhele/CzechRad/blob/main/SCRIPTS/CzechRad_script_004_LOG2CSV-converter_Windows_x86_EXE.zip)
+
+
 ## License:
 
 Code created with Grok AI, released under MIT No Attribution License
