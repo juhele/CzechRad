@@ -61,6 +61,25 @@ This is a C++ application that checks the Safecast API for device data, processe
    - Place `SafecastAPIchecker.cpp` and `json.hpp` in the same directory (e.g., `C:\Projects\SAFECAST_API_checker`).
    - If testing, create an `input/` directory in the same location and place `safecast_API_devices.csv` inside it. The CSV should have the format:
 
-- run in terminal:
+```
+device,device_number,project,comment,api_link
+Safecast,2353,project name here,some other text here,https://api.safecast.org/en-US/bgeigie_imports?by_user_id=671&format=json&order=created_at+desc&q=2353
+CzechRad,0292,CITISTRA,test,https://api.safecast.org/en-US/bgeigie_imports?by_user_id=6776&format=json&q=0292&status=all
+```
+   
+     - The application will create an `output/` directory automatically for CSV and log files.
 
-`x86_64-w64-mingw32-g++ CzechRadLogPatcherPortable.cpp -o CzechRadLogPatcher.exe -std=c++17 -static -static-libgcc -static-libstdc++`
+3. **Download nlohmann/json (if not included)**:
+- If `json.hpp` is not provided, download it from https://github.com/nlohmann/json/releases (e.g., `json.hpp` from the latest release).
+- Place `json.hpp` in the same directory as `SafecastAPIchecker.cpp`.
+
+## Compilation Instructions
+1. Open the **Visual Studio 2022 Developer Command Prompt**:
+- Search for "Developer Command Prompt for VS 2022" in the Start menu, or launch it from Visual Studio under `Tools > Command Line > Developer Command Prompt`.
+
+2. Navigate to the project directory:
+```bash
+cd C:\Projects\SAFECAST_API_checker
+
+### Compilation
+- `SafecastAPIc
