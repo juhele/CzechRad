@@ -1,0 +1,3 @@
+device,device_number,project,comment,api_link
+Safecast,2353,project name here,some other text here,https://api.safecast.org/en-US/bgeigie_imports?by_user_id=671&format=json&order=created_at+desc&q=2353
+CzechRad,0292,CITISTRA,test,https://api.safecast.org/en-US/bgeigie_imports?by_user_id=6776&format=json&q=0292&status=all
