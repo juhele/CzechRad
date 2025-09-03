@@ -79,10 +79,8 @@ CzechRad,0292,CITISTRA,test,https://api.safecast.org/en-US/bgeigie_imports?by_us
 
 2. Navigate to the project directory:
 
-```bash
-cd C:\Projects\SAFECAST_API_checker
+`cd C:\Projects\SAFECAST_API_checker`
 
 3. Compile the application:
 
-```bash
-cl /EHsc SafecastAPIchecker.cpp /link winhttp.lib ws2_32.lib kernel32.lib /out:SafecastAPIchecker.exe
+`cl /EHsc SafecastAPIchecker.cpp /link winhttp.lib ws2_32.lib kernel32.lib /out:SafecastAPIchecker.exe`
