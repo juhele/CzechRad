@@ -34,3 +34,33 @@ Ensure the C++ standard library supports <filesystem> (C++17 or later).
 - run in terminal:
 
 `x86_64-w64-mingw32-g++ CzechRadLogPatcherPortable.cpp -o CzechRadLogPatcher.exe -std=c++17 -static -static-libgcc -static-libstdc++`
+
+
+## SAFECAST API checker for Windows:
+
+This is a C++ application that checks the Safecast API for device data, processes input from a CSV file, and generates an output CSV with details like last data upload time, credits, and data info. It uses the WinHTTP library to fetch JSON data and the nlohmann/json library for parsing.
+
+### Prerequisites
+- **Operating System**: Windows (tested on Windows 10/11).
+- **Compiler**: Visual Studio 2022 with the C++ development workload installed.
+- **Windows SDK**: Included with Visual Studio 2022, providing `winhttp.lib`, `ws2_32.lib`, and `kernel32.lib`.
+- **nlohmann/json Library**: The `json.hpp` file (included in this repository or downloadable from https://github.com/nlohmann/json).
+- **Internet Connection**: Required to fetch data from `api.safecast.org`.
+
+### Files Included
+- `SafecastAPIchecker.cpp`: The main source code file.
+- `json.hpp`: The nlohmann/json library header for JSON parsing.
+- `input/safecast_API_devices.csv` (optional): Sample input CSV file for testing.
+
+### Setup Instructions
+1. **Install Visual Studio 2022**:
+   - Download and install Visual Studio 2022 (Community edition is free) from https://visualstudio.microsoft.com/.
+   - Ensure the "Desktop development with C++" workload is selected during installation.
+
+2. **Prepare the Files**:
+   - Place `SafecastAPIchecker.cpp` and `json.hpp` in the same directory (e.g., `C:\Projects\SAFECAST_API_checker`).
+   - If testing, create an `input/` directory in the same location and place `safecast_API_devices.csv` inside it. The CSV should have the format:
+
+- run in terminal:
+
+`x86_64-w64-mingw32-g++ CzechRadLogPatcherPortable.cpp -o CzechRadLogPatcher.exe -std=c++17 -static -static-libgcc -static-libstdc++`
