@@ -135,12 +135,7 @@ Safecast,2353,project name here,some other text here,https://api.safecast.org/en
 CzechRad,0292,CITISTRA,test,https://api.safecast.org/en-US/bgeigie_imports?by_user_id=6776&format=json&q=0292&status=all
 ```
 
-
-
-
-The app is able to distinguish data from CzechRad and Safecast devices based on device strings in the LOG file and calculate the dose rate (ADER) values using appropriate conversion factor.
-
-Input:
+The app then, line by line, queries the SAFECAST database and processes the provided JSON. The goal is to find out when the last data was uploaded to the API from a given device - i.e. whether to extend the loan to the user of the loaned device or, conversely, ask him to return it because he/she is not providing measured data.
 
 Safecast sample:
 
@@ -149,33 +144,6 @@ $BNRDD,2408,2022-03-20T15:30:42Z,34,4,42,A,5003.1563,N,01430.9260,E,242.80,A,4,2
 $BNRDD,2408,2022-03-20T15:30:47Z,32,2,44,A,5003.1541,N,01430.9260,E,243.70,A,4,210*46
 $BNRDD,2408,2022-03-20T15:30:52Z,31,0,44,A,5003.1506,N,01430.9265,E,244.00,A,4,210*45
 ```
-
-CzechRad sample:
-
-```
-$CZRA1,0007,2025-01-25T15:13:18Z,26,3,867,A,5003.2222,N,01430.9257,E,284.32,A,5,826*1a
-$CZRA1,0007,2025-01-25T15:13:23Z,25,3,870,A,5003.2241,N,01430.9308,E,290.94,A,5,829*1f
-$CZRA1,0007,2025-01-25T15:13:28Z,28,4,874,A,5003.2266,N,01430.9340,E,295.45,A,5,832*10
-```
-
-Output:
-
-Safecast output sample:
-
-```
-device,device_type,device_ID,date,time_UTC,CPM,ADER_microSvh,latitude,longitude,altitude,pulses5s,pulses_total,GPS_validity,Sat,HDOP
-Safecast,BNRDD,2408,2022-03-20,15:30:42,34,0.0120,50.052605,14.515433,242.80,4,42,A,4,210
-Safecast,BNRDD,2408,2022-03-20,15:30:47,32,0.0060,50.052568,14.515433,243.70,2,44,A,4,210
-Safecast,BNRDD,2408,2022-03-20,15:30:52,31,0.0000,50.052510,14.515442,244.00,0,44,A,4,210
-```
-
-CzechRad output sample:
-
-```
-device,device_type,device_ID,date,time_UTC,CPM,ADER_microSvh,latitude,longitude,altitude,pulses5s,pulses_total,GPS_validity,Sat,HDOP
-CzechRad,CZRA1,0007,2025-01-25,15:13:18,26,0.0091,50.053703,14.515428,284.32,3,867,A,5,826
-CzechRad,CZRA1,0007,2025-01-25,15:13:23,25,0.0091,50.053735,14.515513,290.94,3,870,A,5,829
-CzechRad,CZRA1,0007,2025-01-25,15:13:28,28,0.0122,50.053777,14.515567,295.45,4,874,A,5,832
 
 
 **Download:** 
