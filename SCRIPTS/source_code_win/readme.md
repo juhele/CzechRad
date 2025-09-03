@@ -66,8 +66,8 @@ device,device_number,project,comment,api_link
 Safecast,2353,project name here,some other text here,https://api.safecast.org/en-US/bgeigie_imports?by_user_id=671&format=json&order=created_at+desc&q=2353
 CzechRad,0292,CITISTRA,test,https://api.safecast.org/en-US/bgeigie_imports?by_user_id=6776&format=json&q=0292&status=all
 ```
-   
-     - The application will create an `output/` directory automatically for CSV and log files.
+
+- The application will create an `output/` directory automatically for CSV and log files.
 
 3. **Download nlohmann/json (if not included)**:
 - If `json.hpp` is not provided, download it from https://github.com/nlohmann/json/releases (e.g., `json.hpp` from the latest release).
