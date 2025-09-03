@@ -126,7 +126,7 @@ just put your LOG files in "input" folder and run the EXE.
 
 This application is tailor-made for organizations that operate a large number of Safecast / CzechRad devices and provides the ability to check the status of recorded data without the person / team processing and recording data to the Safecast API having to provide this information.
 
-The application reads the "safecast_API_devices.csv" file from "input" directory (provided CSV sample file can be easily edited / updated using spreadsheet software like Microsoft Excel or LibreOffice Calc). The structure of the file is following:
+The application reads the "safecast_API_devices.csv" file from "input" directory (provided CSV sample file can be easily edited / updated using spreadsheet software like Microsoft Excel or LibreOffice Calc). The structure of the file is following (it is a "searching" link to api.safecast.org to list results from the database according to the selected filter):
 
 
 ```
