@@ -157,13 +157,10 @@ and there is also a debug log like:
 2025-09-02_22-28-57: processing finished
 ```
 
-
-
-
 **Download:** 
 
 **MS Windows - EXE application:**
-[CzechRad_script_005_CzechRad_LOG_Patcher_Windows_x86_EXE.zip (673.0 KB)](https://github.com/juhele/CzechRad/blob/main/SCRIPTS/CzechRad_script_005_CzechRad_LOG_Patcher_Windows_x86_EXE.zip)
+[CzechRad_script_006_SAFECAST_API_checker_Windows_x86_EXE (187.4 KB)](https://github.com/juhele/CzechRad/blob/main/SCRIPTS/CzechRad_script_006_SAFECAST_API_checker_Windows_x86_EXE.zip)
 
 
 ## License:
