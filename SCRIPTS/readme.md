@@ -135,9 +135,7 @@ Safecast,2353,project name here,some other text here,https://api.safecast.org/en
 CzechRad,0292,CITISTRA,test,https://api.safecast.org/en-US/bgeigie_imports?by_user_id=6776&format=json&q=0292&status=all
 ```
 
-The app then, line by line, queries the SAFECAST database and processes the provided JSON. The goal is to find out when the last data was uploaded to the API from a given device - i.e. whether to extend the loan to the user of the loaned device or, conversely, ask him to return it because he/she is not providing measured data.
-
-Safecast sample:
+The app then, line by line, queries the SAFECAST database and processes the provided JSON. The goal is to find out when the last data was uploaded to the API from a given device - i.e. whether to extend the loan to the user of the loaned device or, conversely, ask him to return it because he/she is not providing measured data. CSV output looks like this:
 
 ```
 device,device_number,project,comment,last_data_uploaded,measured_by,data_info,api_link
@@ -148,9 +146,15 @@ CzechRad,0292,CITISTRA,test,2025-08-19T10:27:44.241Z,Lenka Benešová (for SURO.
 and there is also a debug log like:
 
 ```
-device,device_number,project,comment,last_data_uploaded,measured_by,data_info,api_link
-Safecast,2353,project name here,some other text here,2024-10-08T09:49:41.760Z,Roman Slavík (for SURO.cz) ,Brno, Ivanovice na Hané - car,https://api.safecast.org/en-US/bgeigie_imports?by_user_id=671&format=json&order=created_at+desc&q=2353
-CzechRad,0292,CITISTRA,test,2025-08-19T10:27:44.241Z,Lenka Benešová (for SURO.cz), #CITISTRA #CZ,Třebotovice, Třeboň, Nová Bystřice - car,https://api.safecast.org/en-US/bgeigie_imports?by_user_id=6776&format=json&q=0292&status=all
+2025-09-02_22-28-57: application started
+2025-09-02_22-28-57: number of input lines is 2
+2025-09-02_22-28-57: Fetching URL: https://api.safecast.org/en-US/bgeigie_imports?by_user_id=671&format=json&order=created_at+desc&q=2353
+2025-09-02_22-28-57: Host: api.safecast.org, Path: en-US/bgeigie_imports?by_user_id=671&format=json&order=created_at+desc&q=2353, Port: 443, Scheme: HTTPS
+2025-09-02_22-28-59: Response received: [{"id":65106,"user_id":671,"source":{"url":"https://safecastapi-imports-production-us-west-2.s3.amaz...
+2025-09-02_22-28-59: Fetching URL: https://api.safecast.org/en-US/bgeigie_imports?by_user_id=6776&format=json&q=0292&status=all
+2025-09-02_22-28-59: Host: api.safecast.org, Path: en-US/bgeigie_imports?by_user_id=6776&format=json&q=0292&status=all, Port: 443, Scheme: HTTPS
+2025-09-02_22-28-59: Response received: [{"id":68870,"user_id":6776,"source":{"url":"https://safecastapi-imports-production-us-west-2.s3.ama...
+2025-09-02_22-28-57: processing finished
 ```
 
 
