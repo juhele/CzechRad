@@ -81,5 +81,7 @@ CzechRad,0292,CITISTRA,test,https://api.safecast.org/en-US/bgeigie_imports?by_us
 ```bash
 cd C:\Projects\SAFECAST_API_checker
 
-### Compilation
-- `SafecastAPIc
+3. Compile the application:
+
+```bash
+cl /EHsc SafecastAPIchecker.cpp /link winhttp.lib ws2_32.lib kernel32.lib /out:SafecastAPIchecker.exe
