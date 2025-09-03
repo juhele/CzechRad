@@ -78,6 +78,7 @@ CzechRad,0292,CITISTRA,test,https://api.safecast.org/en-US/bgeigie_imports?by_us
 - Search for "Developer Command Prompt for VS 2022" in the Start menu, or launch it from Visual Studio under `Tools > Command Line > Developer Command Prompt`.
 
 2. Navigate to the project directory:
+
 ```bash
 cd C:\Projects\SAFECAST_API_checker
 
