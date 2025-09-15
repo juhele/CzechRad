@@ -122,6 +122,11 @@ Usage:
 
 just put your LOG files in "input" folder and run the EXE.
 
+**Download:** 
+
+**MS Windows - EXE application:**
+[CzechRad_script_005_CzechRad_LOG_Patcher_Windows_x86_EXE.zip (673.0 KB)](https://github.com/juhele/CzechRad/blob/main/SCRIPTS/CzechRad_script_005_CzechRad_LOG_Patcher_Windows_x86_EXE.zip)
+
 ## Script 06 - SAFECAST API checker for Windows
 
 This application is tailor-made for organizations that operate a large number of Safecast / CzechRad devices and provides the ability to check the status of recorded data without the person / team processing and recording data to the Safecast API having to provide this information.
