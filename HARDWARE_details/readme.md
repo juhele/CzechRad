@@ -22,11 +22,9 @@ While Safecast bGeigie Nano mainly relies on the use of off-the-shelf commercial
 ### Normal mode - measurement
 <img src="/HARDWARE_details/images/CzechRad_display_1_normal.png" alt="CzechRad display in measurement mode" width="400"/>
 
-**0.18 uSv/h**
-- Dose rate (ADER) in microSieverts per hour calculated as a moving average over the last minute
+- **0.18 uSv/h** - Dose rate (ADER) in microSieverts per hour calculated as a moving average over the last minute
 
-**50%**
-- Approximate battery status indicator - percentage of remaining capacity.
+- **50%** - Approximate battery status indicator - percentage of remaining capacity.
 
 **01/01/2024 10:10:10**
 - Date and time in the format DD/MM/YYYY HH:MM:SS - in this case January 1, 2024 10:10:10. The time is UTC.
