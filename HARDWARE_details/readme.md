@@ -20,10 +20,10 @@ While Safecast bGeigie Nano mainly relies on the use of off-the-shelf commercial
 - white LED backlight
 
 ### Normal mode - measurement
-<img src="/HARDWARE_details/images/CzechRad_display_1_normal.png" alt="CzechRad display in measurement mode" width="800"/>
+<img src="/HARDWARE_details/images/CzechRad_display_1_normal.png" alt="CzechRad display in measurement mode" width="400"/>
 
 ### USB mode - Data download mode via USB cable
-<img src="/HARDWARE_details/images/CzechRad_display_2_USB_mode.png" alt="CzechRad display in USB mode" width="800"/>
+<img src="/HARDWARE_details/images/CzechRad_display_2_USB_mode.png" alt="CzechRad display in USB mode" width="400"/>
 
 ## Main board
 - OpenHardware design
