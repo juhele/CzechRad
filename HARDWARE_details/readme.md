@@ -19,6 +19,11 @@ While Safecast bGeigie Nano mainly relies on the use of off-the-shelf commercial
 - resolution 192x64 pixels
 - white LED backlight
 
+### Normal mode - measurement
+<img src="/HARDWARE_details/images/CzechRad_display_1_normal.png" alt="CzechRad display in measurement mode" width="800"/>
+
+### USB mode - Data download mode via USB cable
+<img src="/HARDWARE_details/images/CzechRad_display_2_USB_mode.png" alt="CzechRad display in USB mode" width="800"/>
 
 ## Main board
 - OpenHardware design
