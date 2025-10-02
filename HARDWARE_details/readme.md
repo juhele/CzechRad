@@ -14,6 +14,12 @@ While Safecast bGeigie Nano mainly relies on the use of off-the-shelf commercial
 
 - only two boards instead of several 3rd party made modules
 
+## Display
+- classic monochrome LCD
+- resolution 192x64 pixels
+- white LED backlight
+
+
 ## Main board
 - OpenHardware design
 - SAMD21G processor (ARM M0+)
