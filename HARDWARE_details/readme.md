@@ -22,27 +22,21 @@ While Safecast bGeigie Nano mainly relies on the use of off-the-shelf commercial
 ### Normal mode - measurement
 <img src="/HARDWARE_details/images/CzechRad_display_1_normal.png" alt="CzechRad display in measurement mode" width="400"/>
 
-- **0.18 uSv/h** - Dose rate (ADER) in microSieverts per hour calculated as a moving average over the last minute
+- **0.18 uSv/h** ... Dose rate (ADER) in microSieverts per hour calculated as a moving average over the last minute
 
-- **50%** - Approximate battery status indicator - percentage of remaining capacity.
+- **50%** ... Approximate battery status indicator - percentage of remaining capacity.
 
-**01/01/2024 10:10:10**
-- Date and time in the format DD/MM/YYYY HH:MM:SS - in this case January 1, 2024 10:10:10. The time is UTC.
+- **01/01/2024 10:10:10** ... Date and time in the format DD/MM/YYYY HH:MM:SS - in this case January 1, 2024 10:10:10. The time is UTC.
 
-**SAT:17**
-- The number of satellites that the GPS detects. Here 17.
+- **SAT:17** ... The number of satellites that the GPS detects. Here 17.
 
-**50.0618 14.4526**
-- GPS coordinates - latitude and longitude in decimal degrees, WGS84 EPSG:4326 coordinate system.
+- **50.0618 14.4526** ... GPS coordinates - latitude and longitude in decimal degrees, WGS84 EPSG:4326 coordinate system.
 
-**ALT: 216:43m**
-- Altitude obtained from GPS, in meters.
+- **ALT: 216:43m** ... Altitude obtained from GPS, in meters.
 
-**COUNTER: 12 CP5S**
-- Number of pulses recorded within the current 5s measurement interval.
+- **COUNTER: 12 CP5S** ... Number of pulses recorded within the current 5s measurement interval.
 
-**LOOPS: 356**
-- Total number of 5s measurement cycles since the device was turned on.
+- **LOOPS: 356** ... Total number of 5s measurement cycles since the device was turned on.
 
 
 ### USB mode - Data download mode via USB cable
