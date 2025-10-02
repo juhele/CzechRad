@@ -42,6 +42,8 @@ While Safecast bGeigie Nano mainly relies on the use of off-the-shelf commercial
 ### USB mode - Data download mode via USB cable
 <img src="/HARDWARE_details/images/CzechRad_display_2_USB_mode.png" alt="CzechRad display in USB mode" width="400"/>
 
+- In this mode, the display only shows the USB connector symbol and static information about the data download mode.
+
 ## Main board
 - OpenHardware design
 - SAMD21G processor (ARM M0+)
