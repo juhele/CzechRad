@@ -84,3 +84,11 @@ CzechRad,0292,CITISTRA,test,https://api.safecast.org/en-US/bgeigie_imports?by_us
 3. Compile the application:
 
 `cl /EHsc SafecastAPIchecker.cpp /link winhttp.lib ws2_32.lib kernel32.lib /out:SafecastAPIchecker.exe`
+
+## CzechRad-LOG2GPX-converter:
+
+- run in terminal:
+
+`x86_64-w64-mingw32-g++ -O2 -static -static-libgcc -static-libstdc++ \
+    CzechRad_LOG2GPX_converter.cpp -o CzechRad_LOG2GPX_converter.exe`
+
