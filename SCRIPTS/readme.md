@@ -169,7 +169,7 @@ and there is also a debug log like:
 
 ## Script 07 - CzechRad LOG2GPX converter for Windows
 
-The application processes CzechRad/Safecast LOG data from the "input" folder and converts it to a standard GPX file. 
+The application processes CzechRad/Safecast LOG data from the "input" folder and converts it to a standard GPX ([GPS Exchange Format](https://en.wikipedia.org/wiki/GPS_Exchange_Format)) file. 
 
 This will allow you to use measured data from CzechRad/Safecast for geotagging photos from your camera or smartphone (for example, if you forgot to turn on inserting GPS location into Exif). The application is provided as an EXE for Windows, but also works via WINE on Linux.
 
