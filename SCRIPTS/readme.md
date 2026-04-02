@@ -176,7 +176,7 @@ This will allow you to use measured data from CzechRad/Safecast for geotagging p
 **Download:** 
 
 **MS Windows - EXE application:**
-[CzechRad_script_006_SAFECAST_API_checker_Windows_x86_EXE (187.4 KB)](https://github.com/juhele/CzechRad/blob/main/SCRIPTS/CzechRad_script_006_SAFECAST_API_checker_Windows_x86_EXE.zip)
+[CzechRad_script_007_CzechRad_LOG2GPX_converter_Windows_x86_EXE.zip (700 KB)](https://github.com/juhele/CzechRad/blob/main/SCRIPTS/CzechRad_script_007_CzechRad_LOG2GPX_converter_Windows_x86_EXE.zip)
 
 ## License:
 
