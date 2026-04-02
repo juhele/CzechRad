@@ -167,6 +167,16 @@ and there is also a debug log like:
 **MS Windows - EXE application:**
 [CzechRad_script_006_SAFECAST_API_checker_Windows_x86_EXE (187.4 KB)](https://github.com/juhele/CzechRad/blob/main/SCRIPTS/CzechRad_script_006_SAFECAST_API_checker_Windows_x86_EXE.zip)
 
+## Script 07 - CzechRad LOG2GPX converter for Windows
+
+The application processes CzechRad/Safecast LOG data from the "input" folder and converts it to a standard GPX file. 
+
+This will allow you to use measured data from CzechRad/Safecast for geotagging photos from your camera or smartphone (for example, if you forgot to turn on inserting GPS location into Exif). The application is provided as an EXE for Windows, but also works via WINE on Linux.
+
+**Download:** 
+
+**MS Windows - EXE application:**
+[CzechRad_script_006_SAFECAST_API_checker_Windows_x86_EXE (187.4 KB)](https://github.com/juhele/CzechRad/blob/main/SCRIPTS/CzechRad_script_006_SAFECAST_API_checker_Windows_x86_EXE.zip)
 
 ## License:
 
