@@ -28,9 +28,9 @@ Join us on Discord: https://discord.gg/rnXKZ6ZA
 The device will be finished and manufactured within the project:
 
 
-### Title: Centrum pro podporu obyvatelstva pro případ skutečného nebo domnělého vzniku mimořádných jaderných a radiačních událostí
-
-### (English: Center for the support of the population in case of actual or suspected occurence of extraordinary nuclear and radiation events)
+### [Title: Centrum pro podporu obyvatelstva pro případ skutečného nebo domnělého vzniku mimořádných jaderných a radiačních událostí](https://starfos.tacr.cz/projekty/VJ01010116)  
+ 
+### [(English: Center for the support of the population in case of actual or suspected occurence of extraordinary nuclear and radiation events)](https://starfos.tacr.cz/en/projekty/VJ01010116)
 
 
 <img src="Images/IMPAKT_loga.png" alt="Ministry of the Interior of the Czech Republic logo" width="400"/>
