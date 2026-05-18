@@ -18,8 +18,7 @@ Zařízení vyvíjí [Státní ústav radiační ochrany, v. v. i. (SÚRO)](http
 Přístroj bude dokončen a vyroben v rámci projektu:
 
 
-### Název projektu: Centrum pro podporu obyvatelstva pro případ skutečného nebo domnělého vzniku mimořádných jaderných a radiačních událostí
-
+### [Název projektu: Centrum pro podporu obyvatelstva pro případ skutečného nebo domnělého vzniku mimořádných jaderných a radiačních událostí](https://starfos.tacr.cz/projekty/VJ01010116)  
 
 <img src="Images/IMPAKT_loga_CZ.png" alt="Loga poskytovatele a řešitelů" width="400"/>
 
